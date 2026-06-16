@@ -61,6 +61,12 @@
   .badge-missed  { background: rgba(239,68,68,.1);    color: #fca5a5; }
   .badge-in      { background: rgba(99,102,241,.15);  color: #a5b4fc; }
   .badge-out     { background: rgba(251,191,36,.1);   color: #fcd34d; }
+  /* Delivery status ticks */
+  .dlv { font-size: .75rem; white-space: nowrap; }
+  .dlv-enqueued  { color: var(--muted); }
+  .dlv-sent      { color: var(--muted); }
+  .dlv-delivered { color: var(--green); }
+  .dlv-read      { color: #60a5fa; }
   .phone { font-family: monospace; font-size: .82rem; color: #93c5fd; }
 
   /* ── WhatsApp reply button ── */
@@ -208,6 +214,7 @@
         <th>Status</th>
         <th>Direction</th>
         <th>WA Sent?</th>
+        <th>Delivery</th>
         <th>Reply</th>
       </tr>
     </thead>
@@ -344,6 +351,14 @@ function waBadge(v) {
   if (s === 'pending') return '<span class="badge badge-pending">Pending</span>';
   return '<span class="badge badge-no">✗ Not Sent</span>';
 }
+function dlvBadge(v) {
+  const s = String(v || '').toLowerCase();
+  if (s === 'read')      return '<span class="dlv dlv-read" title="Read">✓✓ Read</span>';
+  if (s === 'delivered') return '<span class="dlv dlv-delivered" title="Delivered">✓✓ Delivered</span>';
+  if (s === 'sent')      return '<span class="dlv dlv-sent" title="Sent to WhatsApp">✓ Sent</span>';
+  if (s === 'enqueued')  return '<span class="dlv dlv-enqueued" title="Queued">⏳ Queued</span>';
+  return '<span class="dlv dlv-enqueued">—</span>';
+}
 
 function render() {
   const today = new Date().toISOString().slice(0,10);
@@ -376,6 +391,7 @@ function render() {
       '<td><span class="badge badge-missed">' + (row.call_status || 'Missed') + '</span></td>' +
       '<td>' + dirBadge(row.direction) + '</td>' +
       '<td>' + waBadge(row.wa_sent) + '</td>' +
+      '<td>' + dlvBadge(row.delivery_status) + '</td>' +
       '<td><button class="' + btnClass + '" onclick="openModal(' + i + ')">' + btnLabel + '</button></td>' +
     '</tr>';
   }).join('');
