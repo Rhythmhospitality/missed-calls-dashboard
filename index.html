@@ -86,6 +86,26 @@
     50%      { box-shadow: 0 0 0 6px rgba(249,115,22,0); }
   }
 
+  /* ── Tabs ── */
+  .tabs { display: flex; gap: 6px; padding: 0 24px 16px; flex-wrap: wrap; }
+  .tab {
+    background: var(--surface); border: 1px solid var(--border); color: var(--muted);
+    border-radius: 8px; padding: 8px 18px; font-size: .82rem; font-weight: 500;
+    cursor: pointer; transition: all .15s; position: relative;
+  }
+  .tab:hover { border-color: var(--accent); color: var(--text); }
+  .tab.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .tab-badge {
+    display: inline-block; background: #fff; color: var(--accent);
+    border-radius: 99px; font-size: .68rem; font-weight: 700;
+    padding: 1px 6px; margin-left: 4px; vertical-align: middle;
+  }
+  .tab.active .tab-badge { background: rgba(0,0,0,.25); color: #fff; }
+
+  /* ── Last message preview ── */
+  .last-msg { font-size: .78rem; color: var(--muted); max-width: 200px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .last-msg.guest { color: var(--accent); font-weight: 500; }
+
   /* ── Error bar ── */
   .error-bar { background: rgba(239,68,68,.1); border: 1px solid rgba(239,68,68,.3); color: #fca5a5; padding: 10px 24px; font-size: .82rem; display: none; }
   .error-bar.show { display: block; }
@@ -202,6 +222,14 @@
 
 <div class="refresh-info">Auto-refreshes every 30 seconds</div>
 
+<!-- ── Tabs ── -->
+<div class="tabs">
+  <button class="tab active" onclick="setTab('all')"    id="tab-all">All Calls</button>
+  <button class="tab"        onclick="setTab('action')" id="tab-action">Needs Action <span class="tab-badge" id="badge-action"></span></button>
+  <button class="tab"        onclick="setTab('done')"   id="tab-done">Done</button>
+  <button class="tab"        onclick="setTab('replied')" id="tab-replied">Replied</button>
+</div>
+
 <div class="table-wrap">
   <table>
     <thead>
@@ -209,18 +237,15 @@
         <th>Date &amp; Time</th>
         <th>Caller Number</th>
         <th>Agent / IVR</th>
-        <th>Duration</th>
-        <th>Talk Time</th>
-        <th>Status</th>
-        <th>Direction</th>
         <th>WA Sent?</th>
         <th>Delivery</th>
+        <th>Last Message</th>
         <th>Reply</th>
       </tr>
     </thead>
     <tbody id="tbody"></tbody>
   </table>
-  <div class="empty" id="empty"><div class="icon">🕐</div><div>No missed calls yet today</div></div>
+  <div class="empty" id="empty"><div class="icon">🕐</div><div>Nothing here</div></div>
 </div>
 
 <!-- ── Chat Modal ── -->
@@ -269,6 +294,7 @@ var REFRESH_MS = 30_000;
 var _rows = [];
 var _activePhone = '';
 var _activeRowIdx = null;
+var _activeTab = 'all';
 
 // ── Data loading ──────────────────────────────────────────────────────────────
 async function fetchData() {
@@ -360,39 +386,65 @@ function dlvBadge(v) {
   return '<span class="dlv dlv-enqueued">—</span>';
 }
 
+function setTab(tab) {
+  _activeTab = tab;
+  ['all','action','done','replied'].forEach(function(t) {
+    document.getElementById('tab-' + t).classList.toggle('active', t === tab);
+  });
+  render();
+}
+
 function render() {
   const today = new Date().toISOString().slice(0,10);
   const todayRows = _rows.filter(r => String(r.datetime).startsWith(today));
+  const needsActionRows = _rows.filter(r => r.needs_action);
 
   document.getElementById('s-total').textContent  = todayRows.length;
   document.getElementById('s-sent').textContent   = todayRows.filter(r => String(r.wa_sent).toLowerCase() === 'yes').length;
   document.getElementById('s-fail').textContent   = todayRows.filter(r => String(r.wa_sent).toLowerCase() === 'no').length;
-  document.getElementById('s-action').textContent = _rows.filter(r => r.needs_action).length;
+  document.getElementById('s-action').textContent = needsActionRows.length;
+
+  // Badge on Needs Action tab
+  const badgeEl = document.getElementById('badge-action');
+  badgeEl.textContent = needsActionRows.length > 0 ? needsActionRows.length : '';
+
+  // Filter rows by active tab
+  var filtered = _rows;
+  if (_activeTab === 'action')  filtered = _rows.filter(r => r.needs_action);
+  if (_activeTab === 'done')    filtered = _rows.filter(r => String(r.done).toLowerCase() === 'yes');
+  if (_activeTab === 'replied') filtered = _rows.filter(r => r.thread && r.thread.length > 0);
 
   const tbody = document.getElementById('tbody');
-  if (_rows.length === 0) {
+  if (filtered.length === 0) {
     tbody.innerHTML = '';
     document.getElementById('empty').style.display = '';
     return;
   }
   document.getElementById('empty').style.display = 'none';
 
-  tbody.innerHTML = _rows.map(function(row, i) {
+  tbody.innerHTML = filtered.map(function(row, i) {
+    const globalIdx  = _rows.indexOf(row);
     const needsAction = row.needs_action;
     const hasThread   = row.thread && row.thread.length > 0;
     const btnClass    = needsAction ? 'wa-btn needs-action' : 'wa-btn normal';
     const btnLabel    = needsAction ? '💬 Reply!' : (hasThread ? '💬 Chat' : '💬 Start');
+
+    // Last message preview
+    var lastMsg = '—', lastMsgClass = 'last-msg';
+    if (hasThread) {
+      const last = row.thread[row.thread.length - 1];
+      lastMsg = (last.from === 'guest' ? '👤 ' : '🏨 ') + escHtml(last.text).slice(0, 60);
+      if (last.from === 'guest') lastMsgClass = 'last-msg guest';
+    }
+
     return '<tr>' +
       '<td>' + fmtIST(row.datetime) + '</td>' +
       '<td class="phone">' + (row.phone || '—') + '</td>' +
       '<td>' + (row.agent || 'IVR') + '</td>' +
-      '<td>' + fmtDur(row.duration) + '</td>' +
-      '<td>' + fmtDur(row.talk_time) + '</td>' +
-      '<td><span class="badge badge-missed">' + (row.call_status || 'Missed') + '</span></td>' +
-      '<td>' + dirBadge(row.direction) + '</td>' +
       '<td>' + waBadge(row.wa_sent) + '</td>' +
       '<td>' + dlvBadge(row.delivery_status) + '</td>' +
-      '<td><button class="' + btnClass + '" onclick="openModal(' + i + ')">' + btnLabel + '</button></td>' +
+      '<td class="' + lastMsgClass + '">' + lastMsg + '</td>' +
+      '<td><button class="' + btnClass + '" onclick="openModal(' + globalIdx + ')">' + btnLabel + '</button></td>' +
     '</tr>';
   }).join('');
 }
