@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Missed Calls — Rhythm Hospitality</title>
+<style>
+  :root {
+    --bg: #0f1117;
+    --surface: #1a1d27;
+    --border: #2a2d3e;
+    --text: #e2e8f0;
+    --muted: #8892a4;
+    --accent: #f97316;   /* orange */
+    --green: #22c55e;
+    --red: #ef4444;
+    --yellow: #eab308;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', sans-serif; min-height: 100vh; }
+
+  /* ── Header ── */
+  header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 24px;
+    display: flex; align-items: center; justify-content: space-between;
+    position: sticky; top: 0; z-index: 10;
+  }
+  header h1 { font-size: 1.1rem; font-weight: 600; letter-spacing: .3px; }
+  header h1 span { color: var(--accent); }
+  .live-badge {
+    display: flex; align-items: center; gap: 6px;
+    font-size: .75rem; color: var(--muted);
+  }
+  .live-dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--green);
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.3} }
+
+  /* ── Stats bar ── */
+  .stats {
+    display: flex; gap: 12px; padding: 16px 24px; flex-wrap: wrap;
+  }
+  .stat {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 20px;
+    min-width: 120px;
+    text-align: center;
+  }
+  .stat .val { font-size: 1.8rem; font-weight: 700; }
+  .stat .lbl { font-size: .72rem; color: var(--muted); margin-top: 2px; text-transform: uppercase; letter-spacing: .5px; }
+  .stat.orange .val { color: var(--accent); }
+  .stat.green  .val { color: var(--green); }
+  .stat.red    .val { color: var(--red); }
+  .stat.yellow .val { color: var(--yellow); }
+
+  /* ── Table ── */
+  .table-wrap { padding: 0 24px 40px; overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: .85rem; }
+  thead th {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    padding: 10px 14px;
+    text-align: left;
+    color: var(--muted);
+    font-weight: 500;
+    font-size: .75rem;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    position: sticky; top: 57px;
+  }
+  tbody tr { border-bottom: 1px solid var(--border); transition: background .15s; }
+  tbody tr:hover { background: rgba(255,255,255,.03); }
+  tbody td { padding: 11px 14px; vertical-align: middle; }
+
+  /* ── Badges ── */
+  .badge {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 99px;
+    font-size: .72rem;
+    font-weight: 600;
+    letter-spacing: .3px;
+  }
+  .badge-yes  { background: rgba(34,197,94,.15); color: var(--green); }
+  .badge-no   { background: rgba(239,68,68,.15);  color: var(--red); }
+  .badge-missed { background: rgba(239,68,68,.1); color: #fca5a5; }
+  .badge-in  { background: rgba(99,102,241,.15); color: #a5b4fc; }
+  .badge-out { background: rgba(251,191,36,.1);  color: #fcd34d; }
+
+  /* ── Phone ── */
+  .phone { font-family: monospace; font-size: .82rem; color: #93c5fd; }
+
+  /* ── Refresh timer ── */
+  .refresh-info {
+    font-size: .72rem; color: var(--muted); padding: 0 24px 10px;
+  }
+
+  /* ── Empty state ── */
+  .empty {
+    text-align: center; padding: 80px 24px; color: var(--muted);
+  }
+  .empty .icon { font-size: 3rem; margin-bottom: 12px; }
+
+  /* ── Error banner ── */
+  .error-bar {
+    background: rgba(239,68,68,.1);
+    border: 1px solid rgba(239,68,68,.3);
+    color: #fca5a5;
+    padding: 10px 24px;
+    font-size: .82rem;
+    display: none;
+  }
+  .error-bar.show { display: block; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>📞 Missed Calls &nbsp;·&nbsp; <span>Rhythm Hospitality</span></h1>
+  <div class="live-badge">
+    <div class="live-dot"></div>
+    <span id="last-refresh">Loading…</span>
+  </div>
+</header>
+
+<div id="error-bar" class="error-bar"></div>
+
+<div class="stats" id="stats">
+  <div class="stat orange"><div class="val" id="s-total">—</div><div class="lbl">Total Today</div></div>
+  <div class="stat green"><div class="val" id="s-sent">—</div><div class="lbl">WA Sent</div></div>
+  <div class="stat red"><div class="val" id="s-fail">—</div><div class="lbl">WA Failed</div></div>
+  <div class="stat yellow"><div class="val" id="s-today">—</div><div class="lbl">This Hour</div></div>
+</div>
+
+<div class="refresh-info">Auto-refreshes every 30 seconds &nbsp;·&nbsp; Data source: Google Sheet via GitHub Pages</div>
+
+<div class="table-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th>Date &amp; Time</th>
+        <th>Caller Number</th>
+        <th>Agent / IVR</th>
+        <th>Duration</th>
+        <th>Talk Time</th>
+        <th>Status</th>
+        <th>Direction</th>
+        <th>Disposition</th>
+        <th>WA Sent?</th>
+        <th>Message ID</th>
+      </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+  </table>
+  <div class="empty" id="empty" style="display:none">
+    <div class="icon">🕐</div>
+    <div>No missed calls yet today</div>
+  </div>
+</div>
+
+<script>
+const DATA_URL = 'data.json';   // served from same GitHub Pages repo
+const REFRESH_MS = 30_000;
+
+function fmt(v) { return v ?? '—'; }
+
+function dirBadge(d) {
+  if (!d) return '—';
+  const l = d.toLowerCase();
+  if (l === 'inbound')  return '<span class="badge badge-in">Inbound</span>';
+  if (l === 'outbound') return '<span class="badge badge-out">Outbound</span>';
+  return d;
+}
+
+function waBadge(sent) {
+  const s = String(sent).toLowerCase();
+  if (s === 'yes') return '<span class="badge badge-yes">✓ Sent</span>';
+  return '<span class="badge badge-no">✗ Not Sent</span>';
+}
+
+function fmtDur(s) {
+  if (!s && s !== 0) return '—';
+  const sec = parseInt(s, 10);
+  if (isNaN(sec)) return s;
+  if (sec < 60) return `${sec}s`;
+  return `${Math.floor(sec/60)}m ${sec%60}s`;
+}
+
+function nowHour() {
+  return new Date().getHours();
+}
+
+async function load() {
+  try {
+    const r = await fetch(DATA_URL + '?_=' + Date.now());
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const rows = await r.json();
+
+    document.getElementById('error-bar').classList.remove('show');
+
+    const todayStr = new Date().toISOString().slice(0,10);
+    const todayRows = rows.filter(row => {
+      const dt = row['Date & Time'] || '';
+      return dt.startsWith(todayStr);
+    });
+
+    // Stats
+    const total  = todayRows.length;
+    const sent   = todayRows.filter(r => String(r['WhatsApp Sent?']).toLowerCase() === 'yes').length;
+    const fail   = todayRows.filter(r => String(r['WhatsApp Sent?']).toLowerCase() === 'no').length;
+    const hourNow = nowHour();
+    const thisHour = todayRows.filter(r => {
+      const dt = r['Date & Time'] || '';
+      if (!dt) return false;
+      try { return new Date(dt).getHours() === hourNow; } catch { return false; }
+    }).length;
+
+    document.getElementById('s-total').textContent = total;
+    document.getElementById('s-sent').textContent  = sent;
+    document.getElementById('s-fail').textContent  = fail;
+    document.getElementById('s-today').textContent = thisHour;
+
+    // Table — show all rows, newest first
+    const sorted = [...rows].reverse();
+    const tbody  = document.getElementById('tbody');
+
+    if (sorted.length === 0) {
+      tbody.innerHTML = '';
+      document.getElementById('empty').style.display = '';
+    } else {
+      document.getElementById('empty').style.display = 'none';
+      tbody.innerHTML = sorted.map(row => `
+        <tr>
+          <td>${fmt(row['Date & Time'])}</td>
+          <td class="phone">${fmt(row['Caller Number'])}</td>
+          <td>${fmt(row['Agent / IVR'])}</td>
+          <td>${fmtDur(row['Duration (s)'])}</td>
+          <td>${fmtDur(row['Talk Time (s)'])}</td>
+          <td><span class="badge badge-missed">${fmt(row['Call Status'])}</span></td>
+          <td>${dirBadge(row['Direction'])}</td>
+          <td>${fmt(row['Disposition'])}</td>
+          <td>${waBadge(row['WhatsApp Sent?'])}</td>
+          <td style="font-size:.72rem;color:#64748b">${fmt(row['WA Message ID'])}</td>
+        </tr>
+      `).join('');
+    }
+
+    const now = new Date();
+    document.getElementById('last-refresh').textContent =
+      `Refreshed at ${now.toLocaleTimeString('en-IN', {hour:'2-digit',minute:'2-digit',second:'2-digit'})}`;
+
+  } catch (e) {
+    const bar = document.getElementById('error-bar');
+    bar.textContent = `⚠ Could not load data: ${e.message}`;
+    bar.classList.add('show');
+    document.getElementById('last-refresh').textContent = 'Refresh failed';
+  }
+}
+
+load();
+setInterval(load, REFRESH_MS);
+</script>
+</body>
+</html>
