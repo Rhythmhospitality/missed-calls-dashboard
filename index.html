@@ -6,26 +6,18 @@
 <title>Missed Calls — Rhythm Hospitality</title>
 <style>
   :root {
-    --bg: #0f1117;
-    --surface: #1a1d27;
-    --border: #2a2d3e;
-    --text: #e2e8f0;
-    --muted: #8892a4;
-    --accent: #f97316;
-    --green: #22c55e;
-    --red: #ef4444;
-    --yellow: #eab308;
-    --blue: #3b82f6;
+    --bg: #0f1117; --surface: #1a1d27; --border: #2a2d3e;
+    --text: #e2e8f0; --muted: #8892a4;
+    --accent: #f97316; --green: #22c55e; --red: #ef4444;
+    --yellow: #eab308; --blue: #3b82f6;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', sans-serif; min-height: 100vh; }
 
-  /* ── Header ── */
+  /* Header */
   header {
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-    padding: 16px 24px;
-    display: flex; align-items: center; justify-content: space-between;
+    background: var(--surface); border-bottom: 1px solid var(--border);
+    padding: 16px 24px; display: flex; align-items: center; justify-content: space-between;
     position: sticky; top: 0; z-index: 20;
   }
   header h1 { font-size: 1.1rem; font-weight: 600; }
@@ -34,7 +26,7 @@
   .live-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green); animation: pulse-dot 2s infinite; }
   @keyframes pulse-dot { 0%,100%{opacity:1} 50%{opacity:.3} }
 
-  /* ── Stats ── */
+  /* Stats */
   .stats { display: flex; gap: 12px; padding: 16px 24px; flex-wrap: wrap; }
   .stat { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 12px 20px; min-width: 120px; text-align: center; }
   .stat .val { font-size: 1.8rem; font-weight: 700; }
@@ -43,55 +35,23 @@
   .stat.green  .val { color: var(--green); }
   .stat.red    .val { color: var(--red); }
   .stat.yellow .val { color: var(--yellow); }
+  .stat.blue   .val { color: var(--blue); }
 
-  /* ── Table ── */
-  .table-wrap { padding: 0 24px 40px; overflow-x: auto; }
-  .refresh-info { font-size: .72rem; color: var(--muted); padding: 0 24px 10px; }
-  table { width: 100%; border-collapse: collapse; font-size: .85rem; }
-  thead th { background: var(--surface); border: 1px solid var(--border); padding: 10px 14px; text-align: left; color: var(--muted); font-weight: 500; font-size: .75rem; text-transform: uppercase; letter-spacing: .5px; }
-  tbody tr { border-bottom: 1px solid var(--border); transition: background .15s; }
-  tbody tr:hover { background: rgba(255,255,255,.03); }
-  tbody td { padding: 11px 14px; vertical-align: middle; }
-
-  /* ── Badges ── */
-  .badge { display: inline-block; padding: 3px 10px; border-radius: 99px; font-size: .72rem; font-weight: 600; }
-  .badge-sent    { background: rgba(34,197,94,.15);   color: var(--green); }
-  .badge-pending { background: rgba(234,179,8,.15);   color: var(--yellow); }
-  .badge-no      { background: rgba(239,68,68,.15);   color: var(--red); }
-  .badge-missed  { background: rgba(239,68,68,.1);    color: #fca5a5; }
-  .badge-in      { background: rgba(99,102,241,.15);  color: #a5b4fc; }
-  .badge-out     { background: rgba(251,191,36,.1);   color: #fcd34d; }
-  /* Delivery status ticks */
-  .dlv { font-size: .75rem; white-space: nowrap; }
-  .dlv-enqueued  { color: var(--muted); }
-  .dlv-sent      { color: var(--muted); }
-  .dlv-delivered { color: var(--green); }
-  .dlv-read      { color: #60a5fa; }
-  .phone { font-family: monospace; font-size: .82rem; color: #93c5fd; }
-
-  /* ── WhatsApp reply button ── */
-  .wa-btn {
-    border: none; border-radius: 8px; padding: 6px 12px; font-size: .78rem;
-    font-weight: 600; cursor: pointer; display: inline-flex; align-items: center; gap: 5px;
-    transition: opacity .15s;
+  /* Charts */
+  .charts { display: flex; gap: 16px; padding: 0 24px 20px; flex-wrap: wrap; }
+  .chart-card {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+    padding: 16px 20px; flex: 1; min-width: 280px;
   }
-  .wa-btn:hover { opacity: .85; }
-  .wa-btn.normal  { background: #25d366; color: #000; }
-  .wa-btn.needs-action {
-    background: var(--accent); color: #fff;
-    animation: pulse-btn 1.5s infinite;
-  }
-  @keyframes pulse-btn {
-    0%,100% { box-shadow: 0 0 0 0 rgba(249,115,22,.5); }
-    50%      { box-shadow: 0 0 0 6px rgba(249,115,22,0); }
-  }
+  .chart-card h3 { font-size: .78rem; color: var(--muted); text-transform: uppercase; letter-spacing: .5px; margin-bottom: 14px; }
+  canvas { width: 100% !important; }
 
-  /* ── Tabs ── */
-  .tabs { display: flex; gap: 6px; padding: 0 24px 16px; flex-wrap: wrap; }
+  /* Tabs */
+  .tabs { display: flex; gap: 6px; padding: 0 24px 14px; flex-wrap: wrap; }
   .tab {
     background: var(--surface); border: 1px solid var(--border); color: var(--muted);
     border-radius: 8px; padding: 8px 18px; font-size: .82rem; font-weight: 500;
-    cursor: pointer; transition: all .15s; position: relative;
+    cursor: pointer; transition: all .15s;
   }
   .tab:hover { border-color: var(--accent); color: var(--text); }
   .tab.active { background: var(--accent); border-color: var(--accent); color: #fff; }
@@ -101,103 +61,84 @@
     padding: 1px 6px; margin-left: 4px; vertical-align: middle;
   }
   .tab.active .tab-badge { background: rgba(0,0,0,.25); color: #fff; }
+  .tab-note { font-size: .68rem; color: var(--muted); padding: 0 24px 10px; }
 
-  /* ── Last message preview ── */
-  .last-msg { font-size: .78rem; color: var(--muted); max-width: 200px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  /* Table */
+  .table-wrap { padding: 0 24px 40px; overflow-x: auto; }
+  .refresh-info { font-size: .72rem; color: var(--muted); padding: 0 24px 10px; }
+  table { width: 100%; border-collapse: collapse; font-size: .85rem; }
+  thead th { background: var(--surface); border: 1px solid var(--border); padding: 10px 14px; text-align: left; color: var(--muted); font-weight: 500; font-size: .75rem; text-transform: uppercase; letter-spacing: .5px; }
+  tbody tr { border-bottom: 1px solid var(--border); transition: background .15s; }
+  tbody tr:hover { background: rgba(255,255,255,.03); }
+  tbody td { padding: 11px 14px; vertical-align: middle; }
+
+  /* Badges */
+  .badge { display: inline-block; padding: 3px 10px; border-radius: 99px; font-size: .72rem; font-weight: 600; }
+  .badge-sent    { background: rgba(34,197,94,.15);  color: var(--green); }
+  .badge-pending { background: rgba(234,179,8,.15);  color: var(--yellow); }
+  .badge-no      { background: rgba(239,68,68,.15);  color: var(--red); }
+  .badge-done    { background: rgba(34,197,94,.15);  color: var(--green); }
+  .dlv { font-size: .75rem; white-space: nowrap; }
+  .dlv-enqueued  { color: var(--muted); }
+  .dlv-sent      { color: var(--muted); }
+  .dlv-delivered { color: var(--green); }
+  .dlv-read      { color: #60a5fa; }
+  .phone { font-family: monospace; font-size: .82rem; color: #93c5fd; }
+  .last-msg { font-size: .78rem; color: var(--muted); max-width: 220px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .last-msg.guest { color: var(--accent); font-weight: 500; }
 
-  /* ── Error bar ── */
+  /* Buttons */
+  .wa-btn {
+    border: none; border-radius: 8px; padding: 6px 12px; font-size: .78rem;
+    font-weight: 600; cursor: pointer; display: inline-flex; align-items: center; gap: 5px; transition: opacity .15s;
+  }
+  .wa-btn:hover { opacity: .85; }
+  .wa-btn.normal       { background: #25d366; color: #000; }
+  .wa-btn.needs-action { background: var(--accent); color: #fff; animation: pulse-btn 1.5s infinite; }
+  @keyframes pulse-btn {
+    0%,100% { box-shadow: 0 0 0 0 rgba(249,115,22,.5); }
+    50%      { box-shadow: 0 0 0 6px rgba(249,115,22,0); }
+  }
+
+  /* Error / empty */
   .error-bar { background: rgba(239,68,68,.1); border: 1px solid rgba(239,68,68,.3); color: #fca5a5; padding: 10px 24px; font-size: .82rem; display: none; }
   .error-bar.show { display: block; }
-
-  /* ── Empty ── */
-  .empty { text-align: center; padding: 80px 24px; color: var(--muted); display: none; }
+  .empty { text-align: center; padding: 60px 24px; color: var(--muted); display: none; }
   .empty .icon { font-size: 3rem; margin-bottom: 12px; }
 
-  /* ════════════════════════════════════════════
-     CHAT MODAL
-  ════════════════════════════════════════════ */
-  .overlay {
-    display: none; position: fixed; inset: 0;
-    background: rgba(0,0,0,.65); z-index: 100;
-    align-items: center; justify-content: center;
-  }
+  /* Modal */
+  .overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,.65); z-index: 100; align-items: center; justify-content: center; }
   .overlay.open { display: flex; }
-
-  .modal {
-    background: var(--surface); border: 1px solid var(--border);
-    border-radius: 14px; width: 480px; max-width: 95vw;
-    max-height: 85vh; display: flex; flex-direction: column;
-    overflow: hidden;
-  }
-
-  .modal-header {
-    padding: 16px 20px; border-bottom: 1px solid var(--border);
-    display: flex; align-items: center; justify-content: space-between;
-  }
+  .modal { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; width: 480px; max-width: 95vw; max-height: 85vh; display: flex; flex-direction: column; overflow: hidden; }
+  .modal-header { padding: 16px 20px; border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; }
   .modal-header .caller { font-weight: 600; font-size: .95rem; }
   .modal-header .caller small { display: block; color: var(--muted); font-size: .72rem; font-weight: 400; margin-top: 2px; }
   .modal-close { background: none; border: none; color: var(--muted); font-size: 1.3rem; cursor: pointer; padding: 4px 8px; border-radius: 6px; }
   .modal-close:hover { background: rgba(255,255,255,.07); color: var(--text); }
-
-  .chat-body {
-    flex: 1; overflow-y: auto; padding: 16px;
-    display: flex; flex-direction: column; gap: 8px;
-    scroll-behavior: smooth;
-  }
+  .chat-body { flex: 1; overflow-y: auto; padding: 16px; display: flex; flex-direction: column; gap: 8px; scroll-behavior: smooth; }
   .chat-body::-webkit-scrollbar { width: 4px; }
   .chat-body::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
-
-  /* ── Bubbles ── */
   .bubble-wrap { display: flex; }
   .bubble-wrap.us    { justify-content: flex-end; }
   .bubble-wrap.guest { justify-content: flex-start; }
-
-  .bubble {
-    max-width: 72%; padding: 9px 13px; border-radius: 12px;
-    font-size: .84rem; line-height: 1.45;
-  }
+  .bubble { max-width: 72%; padding: 9px 13px; border-radius: 12px; font-size: .84rem; line-height: 1.45; }
   .bubble-wrap.us    .bubble { background: #1d4ed8; color: #fff; border-bottom-right-radius: 3px; }
   .bubble-wrap.guest .bubble { background: #2d3148; color: var(--text); border-bottom-left-radius: 3px; }
   .bubble .time { font-size: .65rem; opacity: .6; margin-top: 4px; text-align: right; }
   .bubble-wrap.guest .bubble .time { text-align: left; }
-
-  /* ── No thread state ── */
   .no-thread { text-align: center; color: var(--muted); font-size: .82rem; padding: 30px 0; }
-
-  /* ── Done banner ── */
-  .done-banner {
-    margin: 0 16px 8px; padding: 8px 12px; border-radius: 8px;
-    background: rgba(34,197,94,.1); border: 1px solid rgba(34,197,94,.2);
-    color: var(--green); font-size: .78rem; text-align: center; display: none;
-  }
-
-  /* ── Compose ── */
+  .done-banner { margin: 0 16px 8px; padding: 8px 12px; border-radius: 8px; background: rgba(34,197,94,.1); border: 1px solid rgba(34,197,94,.2); color: var(--green); font-size: .78rem; text-align: center; display: none; }
   .modal-footer { padding: 14px 16px; border-top: 1px solid var(--border); }
   .compose { display: flex; gap: 8px; }
-  .compose textarea {
-    flex: 1; background: #0f1117; border: 1px solid var(--border);
-    color: var(--text); border-radius: 8px; padding: 10px 12px;
-    font-size: .84rem; font-family: inherit; resize: none; outline: none;
-    line-height: 1.4; min-height: 42px; max-height: 120px;
-  }
+  .compose textarea { flex: 1; background: #0f1117; border: 1px solid var(--border); color: var(--text); border-radius: 8px; padding: 10px 12px; font-size: .84rem; font-family: inherit; resize: none; outline: none; line-height: 1.4; min-height: 42px; max-height: 120px; }
   .compose textarea:focus { border-color: var(--blue); }
   .compose textarea::placeholder { color: var(--muted); }
-  .send-btn {
-    background: #25d366; color: #000; border: none; border-radius: 8px;
-    padding: 0 16px; font-weight: 700; font-size: .85rem; cursor: pointer;
-    white-space: nowrap; transition: opacity .15s;
-  }
+  .send-btn { background: #25d366; color: #000; border: none; border-radius: 8px; padding: 0 16px; font-weight: 700; font-size: .85rem; cursor: pointer; white-space: nowrap; transition: opacity .15s; }
   .send-btn:hover { opacity: .85; }
   .send-btn:disabled { opacity: .4; cursor: not-allowed; }
-
   .footer-actions { display: flex; align-items: center; justify-content: space-between; margin-top: 8px; }
   .footer-note { font-size: .7rem; color: var(--muted); }
-  .done-btn {
-    background: none; border: 1px solid var(--border); color: var(--muted);
-    border-radius: 6px; padding: 5px 12px; font-size: .75rem; cursor: pointer;
-    transition: all .15s;
-  }
+  .done-btn { background: none; border: 1px solid var(--border); color: var(--muted); border-radius: 6px; padding: 5px 12px; font-size: .75rem; cursor: pointer; transition: all .15s; }
   .done-btn:hover { border-color: var(--green); color: var(--green); }
 </style>
 </head>
@@ -213,22 +154,43 @@
 
 <div id="error-bar" class="error-bar"></div>
 
+<!-- Stats -->
 <div class="stats">
   <div class="stat orange"><div class="val" id="s-total">—</div><div class="lbl">Total Today</div></div>
-  <div class="stat green"><div class="val" id="s-sent">—</div><div class="lbl">WA Sent</div></div>
-  <div class="stat red"><div class="val" id="s-fail">—</div><div class="lbl">WA Failed</div></div>
+  <div class="stat green" ><div class="val" id="s-sent">—</div><div class="lbl">WA Sent Today</div></div>
+  <div class="stat red"   ><div class="val" id="s-fail">—</div><div class="lbl">WA Failed Today</div></div>
   <div class="stat yellow"><div class="val" id="s-action">—</div><div class="lbl">Needs Action</div></div>
+  <div class="stat blue"  ><div class="val" id="s-done">—</div><div class="lbl">Done (All Time)</div></div>
+</div>
+
+<!-- Charts -->
+<div class="charts">
+  <div class="chart-card" style="max-width:480px">
+    <h3>Missed Calls — Last 7 Days</h3>
+    <canvas id="chart-bar" height="140"></canvas>
+  </div>
+  <div class="chart-card" style="max-width:220px">
+    <h3>WA Status Breakdown</h3>
+    <canvas id="chart-donut" height="140"></canvas>
+    <div id="donut-legend" style="margin-top:10px;font-size:.72rem;display:flex;flex-direction:column;gap:4px"></div>
+  </div>
+  <div class="chart-card" style="max-width:220px">
+    <h3>Reply Engagement</h3>
+    <canvas id="chart-engage" height="140"></canvas>
+    <div id="engage-legend" style="margin-top:10px;font-size:.72rem;display:flex;flex-direction:column;gap:4px"></div>
+  </div>
 </div>
 
 <div class="refresh-info">Auto-refreshes every 30 seconds</div>
 
-<!-- ── Tabs ── -->
+<!-- Tabs -->
 <div class="tabs">
-  <button class="tab active" onclick="setTab('all')"    id="tab-all">All Calls</button>
-  <button class="tab"        onclick="setTab('action')" id="tab-action">Needs Action <span class="tab-badge" id="badge-action"></span></button>
-  <button class="tab"        onclick="setTab('done')"   id="tab-done">Done</button>
-  <button class="tab"        onclick="setTab('replied')" id="tab-replied">Replied</button>
+  <button class="tab active"  onclick="setTab('all')"     id="tab-all">All Calls</button>
+  <button class="tab"         onclick="setTab('action')"  id="tab-action">Needs Action <span class="tab-badge" id="badge-action"></span></button>
+  <button class="tab"         onclick="setTab('done')"    id="tab-done">Done</button>
+  <button class="tab"         onclick="setTab('replied')" id="tab-replied">Replied</button>
 </div>
+<div class="tab-note" id="tab-note">Showing today's calls</div>
 
 <div class="table-wrap">
   <table>
@@ -240,6 +202,7 @@
         <th>WA Sent?</th>
         <th>Delivery</th>
         <th>Last Message</th>
+        <th>Status</th>
         <th>Reply</th>
       </tr>
     </thead>
@@ -248,7 +211,7 @@
   <div class="empty" id="empty"><div class="icon">🕐</div><div>Nothing here</div></div>
 </div>
 
-<!-- ── Chat Modal ── -->
+<!-- Chat Modal -->
 <div class="overlay" id="overlay">
   <div class="modal">
     <div class="modal-header">
@@ -258,13 +221,8 @@
       </div>
       <button class="modal-close" onclick="closeModal()">✕</button>
     </div>
-
-    <div class="chat-body" id="chat-body">
-      <div class="no-thread" id="no-thread">No messages yet</div>
-    </div>
-
+    <div class="chat-body" id="chat-body"></div>
     <div class="done-banner" id="done-banner">✓ Marked as Done</div>
-
     <div class="modal-footer">
       <div class="compose">
         <textarea id="msg-input" placeholder="Type a reply…" rows="1"
@@ -273,7 +231,7 @@
         <button class="send-btn" id="send-btn" onclick="sendReply()">Send</button>
       </div>
       <div class="footer-actions">
-        <span class="footer-note">⚠ Free-text only works within 24h of guest's last reply</span>
+        <span class="footer-note">Free-text works within 24h of guest's last reply</span>
         <button class="done-btn" id="done-btn" onclick="markDone()">✓ Mark Done</button>
       </div>
     </div>
@@ -281,51 +239,19 @@
 </div>
 
 <script>
-// ── Config ────────────────────────────────────────────────────────────────────
-// Replace with your deployed Apps Script URL
 var APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwa2vLYvdMEi9k9ZxQ5kbXIkZCzJKxtWel-dLOUl_Lrd-Z6_zO1-AlMdhyW2rc-qUkzUg/exec';
+var REFRESH_MS = 30000;
 
-// Fallback: read from data.json if Apps Script not configured
-var DATA_JSON_URL = 'data.json';
-
-var REFRESH_MS = 30_000;
-
-// ── State ─────────────────────────────────────────────────────────────────────
 var _rows = [];
 var _activePhone = '';
 var _activeRowIdx = null;
 var _activeTab = 'all';
 
-// ── Data loading ──────────────────────────────────────────────────────────────
+// ── Data ──────────────────────────────────────────────────────
 async function fetchData() {
-  if (APPS_SCRIPT_URL && APPS_SCRIPT_URL !== 'PASTE_YOUR_APPS_SCRIPT_URL_HERE') {
-    const r = await fetch(APPS_SCRIPT_URL + '?action=data&_=' + Date.now());
-    if (!r.ok) throw new Error('Apps Script HTTP ' + r.status);
-    return await r.json();
-  } else {
-    // Fallback to static data.json
-    const r = await fetch(DATA_JSON_URL + '?_=' + Date.now());
-    if (!r.ok) throw new Error('data.json HTTP ' + r.status);
-    const raw = await r.json();
-    // Normalise field names from backfill format
-    return raw.map(function(row) {
-      return {
-        datetime:    row['Date & Time']   || row.datetime   || '',
-        phone:       row['Caller Number'] || row.phone      || '',
-        agent:       row['Agent / IVR']   || row.agent      || '',
-        duration:    row['Duration (s)']  || row.duration   || 0,
-        talk_time:   row['Talk Time (s)'] || row.talk_time  || 0,
-        call_status: row['Call Status']   || row.call_status|| '',
-        direction:   row['Direction']     || row.direction  || '',
-        wa_sent:     row['WhatsApp Sent?']|| row.wa_sent    || '',
-        msg_id:      row['WA Message ID'] || row.msg_id     || '',
-        uuid:        row['UUID']          || row.uuid       || '',
-        thread:      row.thread || [],
-        done:        row.done || '',
-        needs_action: false,
-      };
-    });
-  }
+  const r = await fetch(APPS_SCRIPT_URL + '?action=data&_=' + Date.now());
+  if (!r.ok) throw new Error('HTTP ' + r.status);
+  return await r.json();
 }
 
 async function load() {
@@ -333,43 +259,27 @@ async function load() {
     _rows = await fetchData();
     document.getElementById('error-bar').classList.remove('show');
     render();
-    const now = new Date();
+    drawCharts();
     document.getElementById('last-refresh').textContent =
-      'Refreshed at ' + now.toLocaleTimeString('en-IN', {hour:'2-digit',minute:'2-digit',second:'2-digit'});
+      'Refreshed at ' + new Date().toLocaleTimeString('en-IN', {hour:'2-digit',minute:'2-digit',second:'2-digit'});
   } catch(e) {
     const bar = document.getElementById('error-bar');
-    bar.textContent = '⚠ Could not load data: ' + e.message;
+    bar.textContent = 'Could not load data: ' + e.message;
     bar.classList.add('show');
     document.getElementById('last-refresh').textContent = 'Refresh failed';
   }
-
-  // Refresh chat modal if open
   if (_activePhone) refreshModal();
 }
 
-// ── Render table ──────────────────────────────────────────────────────────────
+// ── Helpers ───────────────────────────────────────────────────
 function fmtIST(dt) {
   if (!dt) return '—';
   try {
-    const d = new Date(dt);
-    return d.toLocaleString('en-IN', {
-      timeZone: 'Asia/Kolkata',
-      day: '2-digit', month: 'short', year: 'numeric',
+    return new Date(dt).toLocaleString('en-IN', {
+      timeZone: 'Asia/Kolkata', day: '2-digit', month: 'short', year: 'numeric',
       hour: '2-digit', minute: '2-digit', hour12: true
     });
   } catch(e) { return dt; }
-}
-function fmtDur(s) {
-  const n = parseInt(s, 10);
-  if (!n) return '0s';
-  return n < 60 ? n + 's' : Math.floor(n/60) + 'm ' + (n%60) + 's';
-}
-function dirBadge(d) {
-  if (!d) return '—';
-  const l = d.toLowerCase();
-  if (l === 'inbound'  || l === 'incoming') return '<span class="badge badge-in">Inbound</span>';
-  if (l === 'outbound' || l === 'outgoing') return '<span class="badge badge-out">Outbound</span>';
-  return d;
 }
 function waBadge(v) {
   const s = String(v).toLowerCase();
@@ -379,13 +289,20 @@ function waBadge(v) {
 }
 function dlvBadge(v) {
   const s = String(v || '').toLowerCase();
-  if (s === 'read')      return '<span class="dlv dlv-read" title="Read">✓✓ Read</span>';
-  if (s === 'delivered') return '<span class="dlv dlv-delivered" title="Delivered">✓✓ Delivered</span>';
-  if (s === 'sent')      return '<span class="dlv dlv-sent" title="Sent to WhatsApp">✓ Sent</span>';
-  if (s === 'enqueued')  return '<span class="dlv dlv-enqueued" title="Queued">⏳ Queued</span>';
+  if (s === 'read')      return '<span class="dlv dlv-read">✓✓ Read</span>';
+  if (s === 'delivered') return '<span class="dlv dlv-delivered">✓✓ Delivered</span>';
+  if (s === 'sent')      return '<span class="dlv dlv-sent">✓ Sent</span>';
+  if (s === 'enqueued')  return '<span class="dlv dlv-enqueued">Queued</span>';
   return '<span class="dlv dlv-enqueued">—</span>';
 }
+function escHtml(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\n/g,'<br>');
+}
+function dateStr(dt) {
+  try { return new Date(dt).toISOString().slice(0,10); } catch(e) { return ''; }
+}
 
+// ── Tabs ──────────────────────────────────────────────────────
 function setTab(tab) {
   _activeTab = tab;
   ['all','action','done','replied'].forEach(function(t) {
@@ -394,25 +311,38 @@ function setTab(tab) {
   render();
 }
 
+// ── Render ────────────────────────────────────────────────────
 function render() {
   const today = new Date().toISOString().slice(0,10);
-  const todayRows = _rows.filter(r => String(r.datetime).startsWith(today));
-  const needsActionRows = _rows.filter(r => r.needs_action);
+  const todayRows      = _rows.filter(r => dateStr(r.datetime) === today);
+  const needsActionAll = _rows.filter(r => r.needs_action);
+  const doneAll        = _rows.filter(r => String(r.done).toLowerCase() === 'yes');
 
   document.getElementById('s-total').textContent  = todayRows.length;
   document.getElementById('s-sent').textContent   = todayRows.filter(r => String(r.wa_sent).toLowerCase() === 'yes').length;
   document.getElementById('s-fail').textContent   = todayRows.filter(r => String(r.wa_sent).toLowerCase() === 'no').length;
-  document.getElementById('s-action').textContent = needsActionRows.length;
+  document.getElementById('s-action').textContent = needsActionAll.length;
+  document.getElementById('s-done').textContent   = doneAll.length;
 
-  // Badge on Needs Action tab
   const badgeEl = document.getElementById('badge-action');
-  badgeEl.textContent = needsActionRows.length > 0 ? needsActionRows.length : '';
+  badgeEl.textContent = needsActionAll.length > 0 ? needsActionAll.length : '';
 
-  // Filter rows by active tab
-  var filtered = _rows;
-  if (_activeTab === 'action')  filtered = _rows.filter(r => r.needs_action);
-  if (_activeTab === 'done')    filtered = _rows.filter(r => String(r.done).toLowerCase() === 'yes');
-  if (_activeTab === 'replied') filtered = _rows.filter(r => r.thread && r.thread.length > 0);
+  // Filter + note
+  var filtered, note;
+  if (_activeTab === 'action') {
+    filtered = needsActionAll;
+    note = 'Showing all dates — guests who replied and need a response';
+  } else if (_activeTab === 'done') {
+    filtered = doneAll;
+    note = 'Showing all dates — conversations marked as done';
+  } else if (_activeTab === 'replied') {
+    filtered = _rows.filter(r => r.thread && r.thread.length > 0);
+    note = 'Showing all dates — any conversation with messages';
+  } else {
+    filtered = todayRows;
+    note = 'Showing today\'s calls only';
+  }
+  document.getElementById('tab-note').textContent = note;
 
   const tbody = document.getElementById('tbody');
   if (filtered.length === 0) {
@@ -422,20 +352,24 @@ function render() {
   }
   document.getElementById('empty').style.display = 'none';
 
-  tbody.innerHTML = filtered.map(function(row, i) {
-    const globalIdx  = _rows.indexOf(row);
+  tbody.innerHTML = filtered.map(function(row) {
+    const globalIdx   = _rows.indexOf(row);
     const needsAction = row.needs_action;
     const hasThread   = row.thread && row.thread.length > 0;
+    const isDone      = String(row.done).toLowerCase() === 'yes';
     const btnClass    = needsAction ? 'wa-btn needs-action' : 'wa-btn normal';
     const btnLabel    = needsAction ? '💬 Reply!' : (hasThread ? '💬 Chat' : '💬 Start');
 
-    // Last message preview
     var lastMsg = '—', lastMsgClass = 'last-msg';
     if (hasThread) {
       const last = row.thread[row.thread.length - 1];
-      lastMsg = (last.from === 'guest' ? '👤 ' : '🏨 ') + escHtml(last.text).slice(0, 60);
+      lastMsg = (last.from === 'guest' ? '👤 ' : '🏨 ') + escHtml(String(last.text || '')).slice(0, 55);
       if (last.from === 'guest') lastMsgClass = 'last-msg guest';
     }
+
+    const statusCell = isDone
+      ? '<span class="badge badge-done">✓ Done</span>'
+      : (needsAction ? '<span class="badge badge-pending">Needs Action</span>' : '—');
 
     return '<tr>' +
       '<td>' + fmtIST(row.datetime) + '</td>' +
@@ -444,20 +378,147 @@ function render() {
       '<td>' + waBadge(row.wa_sent) + '</td>' +
       '<td>' + dlvBadge(row.delivery_status) + '</td>' +
       '<td class="' + lastMsgClass + '">' + lastMsg + '</td>' +
+      '<td>' + statusCell + '</td>' +
       '<td><button class="' + btnClass + '" onclick="openModal(' + globalIdx + ')">' + btnLabel + '</button></td>' +
     '</tr>';
   }).join('');
 }
 
-// ── Chat Modal ────────────────────────────────────────────────────────────────
+// ── Charts ────────────────────────────────────────────────────
+function drawCharts() {
+  drawBarChart();
+  drawDonutChart();
+  drawEngageChart();
+}
+
+function drawBarChart() {
+  const canvas = document.getElementById('chart-bar');
+  const ctx    = canvas.getContext('2d');
+  const W = canvas.offsetWidth || 400, H = 140;
+  canvas.width = W * devicePixelRatio; canvas.height = H * devicePixelRatio;
+  ctx.scale(devicePixelRatio, devicePixelRatio);
+
+  // Build last 7 days
+  var days = [];
+  for (var i = 6; i >= 0; i--) {
+    var d = new Date(); d.setDate(d.getDate() - i);
+    days.push(d.toISOString().slice(0,10));
+  }
+  var counts = days.map(function(d) { return _rows.filter(r => dateStr(r.datetime) === d).length; });
+  var maxVal  = Math.max(...counts, 1);
+
+  const pad = { l: 28, r: 10, t: 10, b: 28 };
+  const barW  = Math.floor((W - pad.l - pad.r) / 7) - 4;
+  const chartH = H - pad.t - pad.b;
+
+  ctx.clearRect(0, 0, W, H);
+
+  // Gridlines
+  ctx.strokeStyle = '#2a2d3e'; ctx.lineWidth = 1;
+  [0, 0.5, 1].forEach(function(f) {
+    var y = pad.t + chartH * (1 - f);
+    ctx.beginPath(); ctx.moveTo(pad.l, y); ctx.lineTo(W - pad.r, y); ctx.stroke();
+  });
+
+  // Bars
+  days.forEach(function(d, i) {
+    var v   = counts[i];
+    var bh  = (v / maxVal) * chartH;
+    var x   = pad.l + i * ((W - pad.l - pad.r) / 7) + 2;
+    var y   = pad.t + chartH - bh;
+    var isToday = (d === new Date().toISOString().slice(0,10));
+
+    ctx.fillStyle = isToday ? '#f97316' : '#3b82f6';
+    ctx.beginPath();
+    ctx.roundRect(x, y, barW, bh, 3);
+    ctx.fill();
+
+    // Count label
+    if (v > 0) {
+      ctx.fillStyle = '#e2e8f0'; ctx.font = '10px Segoe UI'; ctx.textAlign = 'center';
+      ctx.fillText(v, x + barW / 2, y - 3);
+    }
+
+    // Day label
+    ctx.fillStyle = '#8892a4'; ctx.font = '9px Segoe UI'; ctx.textAlign = 'center';
+    var label = d.slice(5).replace('-', '/');
+    ctx.fillText(label, x + barW / 2, H - 8);
+  });
+}
+
+function drawDonut(canvasId, legendId, segments) {
+  const canvas = document.getElementById(canvasId);
+  const ctx    = canvas.getContext('2d');
+  const size   = Math.min(canvas.offsetWidth || 160, 160);
+  canvas.width = size * devicePixelRatio; canvas.height = size * devicePixelRatio;
+  ctx.scale(devicePixelRatio, devicePixelRatio);
+
+  const cx = size / 2, cy = size / 2, r = size * .38, inner = r * .58;
+  const total = segments.reduce((a, s) => a + s.val, 0) || 1;
+  var angle = -Math.PI / 2;
+
+  segments.forEach(function(s) {
+    var sweep = (s.val / total) * Math.PI * 2;
+    ctx.beginPath();
+    ctx.moveTo(cx, cy);
+    ctx.arc(cx, cy, r, angle, angle + sweep);
+    ctx.closePath();
+    ctx.fillStyle = s.color;
+    ctx.fill();
+    angle += sweep;
+  });
+
+  // Hole
+  ctx.beginPath(); ctx.arc(cx, cy, inner, 0, Math.PI * 2);
+  ctx.fillStyle = '#1a1d27'; ctx.fill();
+
+  // Centre total
+  ctx.fillStyle = '#e2e8f0'; ctx.font = 'bold 18px Segoe UI'; ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
+  ctx.fillText(total, cx, cy);
+
+  // Legend
+  const leg = document.getElementById(legendId);
+  leg.innerHTML = segments.map(function(s) {
+    return '<div style="display:flex;align-items:center;gap:6px">'
+      + '<span style="width:10px;height:10px;border-radius:2px;background:' + s.color + ';flex-shrink:0"></span>'
+      + '<span style="color:#8892a4">' + s.label + '</span>'
+      + '<span style="margin-left:auto;font-weight:600;color:#e2e8f0">' + s.val + '</span>'
+      + '</div>';
+  }).join('');
+}
+
+function drawDonutChart() {
+  var sent    = _rows.filter(r => String(r.wa_sent).toLowerCase() === 'yes').length;
+  var pending = _rows.filter(r => String(r.wa_sent).toLowerCase() === 'pending').length;
+  var failed  = _rows.filter(r => String(r.wa_sent).toLowerCase() === 'no').length;
+  drawDonut('chart-donut', 'donut-legend', [
+    { label: 'Sent',    val: sent,    color: '#22c55e' },
+    { label: 'Pending', val: pending, color: '#eab308' },
+    { label: 'Failed',  val: failed,  color: '#ef4444' },
+  ]);
+}
+
+function drawEngageChart() {
+  var withReply  = _rows.filter(r => r.thread && r.thread.length > 0).length;
+  var needAction = _rows.filter(r => r.needs_action).length;
+  var done       = _rows.filter(r => String(r.done).toLowerCase() === 'yes').length;
+  var noReply    = _rows.length - withReply;
+  drawDonut('chart-engage', 'engage-legend', [
+    { label: 'No Reply',     val: noReply,    color: '#2a2d3e' },
+    { label: 'Needs Action', val: needAction, color: '#f97316' },
+    { label: 'Done',         val: done,       color: '#22c55e' },
+    { label: 'In Progress',  val: Math.max(0, withReply - needAction - done), color: '#3b82f6' },
+  ]);
+}
+
+// ── Modal ─────────────────────────────────────────────────────
 function openModal(idx) {
   const row = _rows[idx];
   if (!row) return;
-  _activePhone   = row.phone;
-  _activeRowIdx  = idx;
-
+  _activePhone  = row.phone;
+  _activeRowIdx = idx;
   document.getElementById('modal-phone').textContent = row.phone;
-  document.getElementById('modal-time').textContent  = row.datetime;
+  document.getElementById('modal-time').textContent  = fmtIST(row.datetime);
   document.getElementById('overlay').classList.add('open');
   document.getElementById('msg-input').value = '';
   renderThread(row);
@@ -466,8 +527,7 @@ function openModal(idx) {
 
 function closeModal() {
   document.getElementById('overlay').classList.remove('open');
-  _activePhone  = '';
-  _activeRowIdx = null;
+  _activePhone = ''; _activeRowIdx = null;
 }
 
 function refreshModal() {
@@ -479,102 +539,48 @@ function renderThread(row) {
   const body   = document.getElementById('chat-body');
   const banner = document.getElementById('done-banner');
   const thread = row.thread || [];
-
-  if (row.done === 'Yes') {
-    banner.style.display = '';
-  } else {
-    banner.style.display = 'none';
-  }
-
+  banner.style.display = row.done === 'Yes' ? '' : 'none';
   if (thread.length === 0) {
     body.innerHTML = '<div class="no-thread">No messages yet — send the first one below</div>';
     return;
   }
-
   body.innerHTML = thread.map(function(msg) {
     const side = msg.from === 'us' ? 'us' : 'guest';
-    return '<div class="bubble-wrap ' + side + '">' +
-      '<div class="bubble">' +
-        escHtml(msg.text) +
-        '<div class="time">' + (msg.time || '') + '</div>' +
-      '</div>' +
-    '</div>';
+    return '<div class="bubble-wrap ' + side + '"><div class="bubble">'
+      + escHtml(msg.text || '')
+      + '<div class="time">' + (msg.time || '') + '</div>'
+      + '</div></div>';
   }).join('');
-
-  // Scroll to bottom
   body.scrollTop = body.scrollHeight;
 }
 
-function escHtml(s) {
-  return String(s)
-    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
-    .replace(/\n/g,'<br>');
-}
-
-// ── Send reply ────────────────────────────────────────────────────────────────
+// ── Send / Done ───────────────────────────────────────────────
 async function sendReply() {
   const input = document.getElementById('msg-input');
   const btn   = document.getElementById('send-btn');
   const msg   = input.value.trim();
   if (!msg || !_activePhone) return;
-
-  if (!APPS_SCRIPT_URL || APPS_SCRIPT_URL === 'PASTE_YOUR_APPS_SCRIPT_URL_HERE') {
-    alert('Apps Script URL not configured. Add it to the APPS_SCRIPT_URL variable in index.html.');
-    return;
-  }
-
-  btn.disabled = true;
-  btn.textContent = 'Sending…';
-
+  btn.disabled = true; btn.textContent = 'Sending…';
   try {
-    const url = APPS_SCRIPT_URL + '?action=reply&phone=' +
-      encodeURIComponent(_activePhone) + '&message=' + encodeURIComponent(msg);
-    const r = await fetch(url);
+    const r    = await fetch(APPS_SCRIPT_URL + '?action=reply&phone=' + encodeURIComponent(_activePhone) + '&message=' + encodeURIComponent(msg));
     const data = await r.json();
-
-    if (data.status === 'sent') {
-      input.value = '';
-      input.style.height = '';
-      await load(); // refresh data + re-render thread
-    } else {
-      alert('Send failed: ' + (data.gupshup || data.message || 'Unknown error'));
-    }
-  } catch(e) {
-    alert('Network error: ' + e.message);
-  }
-
-  btn.disabled = false;
-  btn.textContent = 'Send';
+    if (data.status === 'sent') { input.value = ''; input.style.height = ''; await load(); }
+    else alert('Send failed: ' + (data.gupshup || data.message || 'Unknown error'));
+  } catch(e) { alert('Network error: ' + e.message); }
+  btn.disabled = false; btn.textContent = 'Send';
 }
 
-// ── Mark done ─────────────────────────────────────────────────────────────────
 async function markDone() {
   if (!_activePhone) return;
   const row = _rows.find(r => r.phone === _activePhone);
-
-  if (!APPS_SCRIPT_URL || APPS_SCRIPT_URL === 'PASTE_YOUR_APPS_SCRIPT_URL_HERE') {
-    alert('Apps Script URL not configured.');
-    return;
-  }
-
-  const url = APPS_SCRIPT_URL + '?action=done&phone=' +
-    encodeURIComponent(_activePhone) + '&uuid=' + encodeURIComponent(row ? row.uuid : '');
-  await fetch(url);
+  await fetch(APPS_SCRIPT_URL + '?action=done&phone=' + encodeURIComponent(_activePhone) + '&uuid=' + encodeURIComponent(row ? row.uuid : ''));
   await load();
 }
 
-// ── Auto-grow textarea ────────────────────────────────────────────────────────
-function autoGrow(el) {
-  el.style.height = 'auto';
-  el.style.height = Math.min(el.scrollHeight, 120) + 'px';
-}
+function autoGrow(el) { el.style.height = 'auto'; el.style.height = Math.min(el.scrollHeight, 120) + 'px'; }
 
-// ── Close on overlay click ────────────────────────────────────────────────────
-document.getElementById('overlay').addEventListener('click', function(e) {
-  if (e.target === this) closeModal();
-});
+document.getElementById('overlay').addEventListener('click', function(e) { if (e.target === this) closeModal(); });
 
-// ── Boot ──────────────────────────────────────────────────────────────────────
 load();
 setInterval(load, REFRESH_MS);
 </script>
