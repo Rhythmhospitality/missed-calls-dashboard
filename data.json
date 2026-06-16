@@ -1,0 +1,44 @@
+[
+  {
+    "Date & Time": "2026-06-16 09:12:34",
+    "Caller Number": "919876543210",
+    "Agent / IVR": "IVR",
+    "Duration (s)": 8,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "inbound",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "msg_abc123",
+    "WA Error": "",
+    "UUID": "uuid-0001-demo"
+  },
+  {
+    "Date & Time": "2026-06-16 10:45:01",
+    "Caller Number": "918899001122",
+    "Agent / IVR": "IVR",
+    "Duration (s)": 5,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "inbound",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "msg_def456",
+    "WA Error": "",
+    "UUID": "uuid-0002-demo"
+  },
+  {
+    "Date & Time": "2026-06-16 11:03:17",
+    "Caller Number": "917700112233",
+    "Agent / IVR": "Reception",
+    "Duration (s)": 12,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "inbound",
+    "Disposition": "",
+    "WhatsApp Sent?": "No",
+    "WA Message ID": "",
+    "WA Error": "Invalid phone: 917700112233",
+    "UUID": "uuid-0003-demo"
+  }
+]
