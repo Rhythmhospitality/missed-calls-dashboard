@@ -11,10 +11,11 @@
     --border: #2a2d3e;
     --text: #e2e8f0;
     --muted: #8892a4;
-    --accent: #f97316;   /* orange */
+    --accent: #f97316;
     --green: #22c55e;
     --red: #ef4444;
     --yellow: #eab308;
+    --blue: #3b82f6;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', sans-serif; min-height: 100vh; }
@@ -25,33 +26,17 @@
     border-bottom: 1px solid var(--border);
     padding: 16px 24px;
     display: flex; align-items: center; justify-content: space-between;
-    position: sticky; top: 0; z-index: 10;
+    position: sticky; top: 0; z-index: 20;
   }
-  header h1 { font-size: 1.1rem; font-weight: 600; letter-spacing: .3px; }
+  header h1 { font-size: 1.1rem; font-weight: 600; }
   header h1 span { color: var(--accent); }
-  .live-badge {
-    display: flex; align-items: center; gap: 6px;
-    font-size: .75rem; color: var(--muted);
-  }
-  .live-dot {
-    width: 8px; height: 8px; border-radius: 50%;
-    background: var(--green);
-    animation: pulse 2s infinite;
-  }
-  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.3} }
+  .live-badge { display: flex; align-items: center; gap: 6px; font-size: .75rem; color: var(--muted); }
+  .live-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green); animation: pulse-dot 2s infinite; }
+  @keyframes pulse-dot { 0%,100%{opacity:1} 50%{opacity:.3} }
 
-  /* ── Stats bar ── */
-  .stats {
-    display: flex; gap: 12px; padding: 16px 24px; flex-wrap: wrap;
-  }
-  .stat {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 12px 20px;
-    min-width: 120px;
-    text-align: center;
-  }
+  /* ── Stats ── */
+  .stats { display: flex; gap: 12px; padding: 16px 24px; flex-wrap: wrap; }
+  .stat { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 12px 20px; min-width: 120px; text-align: center; }
   .stat .val { font-size: 1.8rem; font-weight: 700; }
   .stat .lbl { font-size: .72rem; color: var(--muted); margin-top: 2px; text-transform: uppercase; letter-spacing: .5px; }
   .stat.orange .val { color: var(--accent); }
@@ -61,61 +46,133 @@
 
   /* ── Table ── */
   .table-wrap { padding: 0 24px 40px; overflow-x: auto; }
+  .refresh-info { font-size: .72rem; color: var(--muted); padding: 0 24px 10px; }
   table { width: 100%; border-collapse: collapse; font-size: .85rem; }
-  thead th {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    padding: 10px 14px;
-    text-align: left;
-    color: var(--muted);
-    font-weight: 500;
-    font-size: .75rem;
-    text-transform: uppercase;
-    letter-spacing: .5px;
-  }
+  thead th { background: var(--surface); border: 1px solid var(--border); padding: 10px 14px; text-align: left; color: var(--muted); font-weight: 500; font-size: .75rem; text-transform: uppercase; letter-spacing: .5px; }
   tbody tr { border-bottom: 1px solid var(--border); transition: background .15s; }
   tbody tr:hover { background: rgba(255,255,255,.03); }
   tbody td { padding: 11px 14px; vertical-align: middle; }
 
   /* ── Badges ── */
-  .badge {
-    display: inline-block;
-    padding: 3px 10px;
-    border-radius: 99px;
-    font-size: .72rem;
-    font-weight: 600;
-    letter-spacing: .3px;
-  }
-  .badge-yes  { background: rgba(34,197,94,.15); color: var(--green); }
-  .badge-no   { background: rgba(239,68,68,.15);  color: var(--red); }
-  .badge-missed { background: rgba(239,68,68,.1); color: #fca5a5; }
-  .badge-in  { background: rgba(99,102,241,.15); color: #a5b4fc; }
-  .badge-out { background: rgba(251,191,36,.1);  color: #fcd34d; }
-
-  /* ── Phone ── */
+  .badge { display: inline-block; padding: 3px 10px; border-radius: 99px; font-size: .72rem; font-weight: 600; }
+  .badge-sent    { background: rgba(34,197,94,.15);   color: var(--green); }
+  .badge-pending { background: rgba(234,179,8,.15);   color: var(--yellow); }
+  .badge-no      { background: rgba(239,68,68,.15);   color: var(--red); }
+  .badge-missed  { background: rgba(239,68,68,.1);    color: #fca5a5; }
+  .badge-in      { background: rgba(99,102,241,.15);  color: #a5b4fc; }
+  .badge-out     { background: rgba(251,191,36,.1);   color: #fcd34d; }
   .phone { font-family: monospace; font-size: .82rem; color: #93c5fd; }
 
-  /* ── Refresh timer ── */
-  .refresh-info {
-    font-size: .72rem; color: var(--muted); padding: 0 24px 10px;
+  /* ── WhatsApp reply button ── */
+  .wa-btn {
+    border: none; border-radius: 8px; padding: 6px 12px; font-size: .78rem;
+    font-weight: 600; cursor: pointer; display: inline-flex; align-items: center; gap: 5px;
+    transition: opacity .15s;
+  }
+  .wa-btn:hover { opacity: .85; }
+  .wa-btn.normal  { background: #25d366; color: #000; }
+  .wa-btn.needs-action {
+    background: var(--accent); color: #fff;
+    animation: pulse-btn 1.5s infinite;
+  }
+  @keyframes pulse-btn {
+    0%,100% { box-shadow: 0 0 0 0 rgba(249,115,22,.5); }
+    50%      { box-shadow: 0 0 0 6px rgba(249,115,22,0); }
   }
 
-  /* ── Empty state ── */
-  .empty {
-    text-align: center; padding: 80px 24px; color: var(--muted);
-  }
+  /* ── Error bar ── */
+  .error-bar { background: rgba(239,68,68,.1); border: 1px solid rgba(239,68,68,.3); color: #fca5a5; padding: 10px 24px; font-size: .82rem; display: none; }
+  .error-bar.show { display: block; }
+
+  /* ── Empty ── */
+  .empty { text-align: center; padding: 80px 24px; color: var(--muted); display: none; }
   .empty .icon { font-size: 3rem; margin-bottom: 12px; }
 
-  /* ── Error banner ── */
-  .error-bar {
-    background: rgba(239,68,68,.1);
-    border: 1px solid rgba(239,68,68,.3);
-    color: #fca5a5;
-    padding: 10px 24px;
-    font-size: .82rem;
-    display: none;
+  /* ════════════════════════════════════════════
+     CHAT MODAL
+  ════════════════════════════════════════════ */
+  .overlay {
+    display: none; position: fixed; inset: 0;
+    background: rgba(0,0,0,.65); z-index: 100;
+    align-items: center; justify-content: center;
   }
-  .error-bar.show { display: block; }
+  .overlay.open { display: flex; }
+
+  .modal {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 14px; width: 480px; max-width: 95vw;
+    max-height: 85vh; display: flex; flex-direction: column;
+    overflow: hidden;
+  }
+
+  .modal-header {
+    padding: 16px 20px; border-bottom: 1px solid var(--border);
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .modal-header .caller { font-weight: 600; font-size: .95rem; }
+  .modal-header .caller small { display: block; color: var(--muted); font-size: .72rem; font-weight: 400; margin-top: 2px; }
+  .modal-close { background: none; border: none; color: var(--muted); font-size: 1.3rem; cursor: pointer; padding: 4px 8px; border-radius: 6px; }
+  .modal-close:hover { background: rgba(255,255,255,.07); color: var(--text); }
+
+  .chat-body {
+    flex: 1; overflow-y: auto; padding: 16px;
+    display: flex; flex-direction: column; gap: 8px;
+    scroll-behavior: smooth;
+  }
+  .chat-body::-webkit-scrollbar { width: 4px; }
+  .chat-body::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+
+  /* ── Bubbles ── */
+  .bubble-wrap { display: flex; }
+  .bubble-wrap.us    { justify-content: flex-end; }
+  .bubble-wrap.guest { justify-content: flex-start; }
+
+  .bubble {
+    max-width: 72%; padding: 9px 13px; border-radius: 12px;
+    font-size: .84rem; line-height: 1.45;
+  }
+  .bubble-wrap.us    .bubble { background: #1d4ed8; color: #fff; border-bottom-right-radius: 3px; }
+  .bubble-wrap.guest .bubble { background: #2d3148; color: var(--text); border-bottom-left-radius: 3px; }
+  .bubble .time { font-size: .65rem; opacity: .6; margin-top: 4px; text-align: right; }
+  .bubble-wrap.guest .bubble .time { text-align: left; }
+
+  /* ── No thread state ── */
+  .no-thread { text-align: center; color: var(--muted); font-size: .82rem; padding: 30px 0; }
+
+  /* ── Done banner ── */
+  .done-banner {
+    margin: 0 16px 8px; padding: 8px 12px; border-radius: 8px;
+    background: rgba(34,197,94,.1); border: 1px solid rgba(34,197,94,.2);
+    color: var(--green); font-size: .78rem; text-align: center; display: none;
+  }
+
+  /* ── Compose ── */
+  .modal-footer { padding: 14px 16px; border-top: 1px solid var(--border); }
+  .compose { display: flex; gap: 8px; }
+  .compose textarea {
+    flex: 1; background: #0f1117; border: 1px solid var(--border);
+    color: var(--text); border-radius: 8px; padding: 10px 12px;
+    font-size: .84rem; font-family: inherit; resize: none; outline: none;
+    line-height: 1.4; min-height: 42px; max-height: 120px;
+  }
+  .compose textarea:focus { border-color: var(--blue); }
+  .compose textarea::placeholder { color: var(--muted); }
+  .send-btn {
+    background: #25d366; color: #000; border: none; border-radius: 8px;
+    padding: 0 16px; font-weight: 700; font-size: .85rem; cursor: pointer;
+    white-space: nowrap; transition: opacity .15s;
+  }
+  .send-btn:hover { opacity: .85; }
+  .send-btn:disabled { opacity: .4; cursor: not-allowed; }
+
+  .footer-actions { display: flex; align-items: center; justify-content: space-between; margin-top: 8px; }
+  .footer-note { font-size: .7rem; color: var(--muted); }
+  .done-btn {
+    background: none; border: 1px solid var(--border); color: var(--muted);
+    border-radius: 6px; padding: 5px 12px; font-size: .75rem; cursor: pointer;
+    transition: all .15s;
+  }
+  .done-btn:hover { border-color: var(--green); color: var(--green); }
 </style>
 </head>
 <body>
@@ -130,14 +187,14 @@
 
 <div id="error-bar" class="error-bar"></div>
 
-<div class="stats" id="stats">
+<div class="stats">
   <div class="stat orange"><div class="val" id="s-total">—</div><div class="lbl">Total Today</div></div>
   <div class="stat green"><div class="val" id="s-sent">—</div><div class="lbl">WA Sent</div></div>
   <div class="stat red"><div class="val" id="s-fail">—</div><div class="lbl">WA Failed</div></div>
-  <div class="stat yellow"><div class="val" id="s-today">—</div><div class="lbl">This Hour</div></div>
+  <div class="stat yellow"><div class="val" id="s-action">—</div><div class="lbl">Needs Action</div></div>
 </div>
 
-<div class="refresh-info">Auto-refreshes every 30 seconds &nbsp;·&nbsp; Data source: Google Sheet via GitHub Pages</div>
+<div class="refresh-info">Auto-refreshes every 30 seconds</div>
 
 <div class="table-wrap">
   <table>
@@ -150,118 +207,295 @@
         <th>Talk Time</th>
         <th>Status</th>
         <th>Direction</th>
-        <th>Disposition</th>
         <th>WA Sent?</th>
-        <th>Message ID</th>
+        <th>Reply</th>
       </tr>
     </thead>
     <tbody id="tbody"></tbody>
   </table>
-  <div class="empty" id="empty" style="display:none">
-    <div class="icon">🕐</div>
-    <div>No missed calls yet today</div>
+  <div class="empty" id="empty"><div class="icon">🕐</div><div>No missed calls yet today</div></div>
+</div>
+
+<!-- ── Chat Modal ── -->
+<div class="overlay" id="overlay">
+  <div class="modal">
+    <div class="modal-header">
+      <div class="caller">
+        <span id="modal-phone">+91XXXXXXXXXX</span>
+        <small id="modal-time"></small>
+      </div>
+      <button class="modal-close" onclick="closeModal()">✕</button>
+    </div>
+
+    <div class="chat-body" id="chat-body">
+      <div class="no-thread" id="no-thread">No messages yet</div>
+    </div>
+
+    <div class="done-banner" id="done-banner">✓ Marked as Done</div>
+
+    <div class="modal-footer">
+      <div class="compose">
+        <textarea id="msg-input" placeholder="Type a reply…" rows="1"
+          onkeydown="if(event.key==='Enter'&&!event.shiftKey){event.preventDefault();sendReply()}"
+          oninput="autoGrow(this)"></textarea>
+        <button class="send-btn" id="send-btn" onclick="sendReply()">Send</button>
+      </div>
+      <div class="footer-actions">
+        <span class="footer-note">⚠ Free-text only works within 24h of guest's last reply</span>
+        <button class="done-btn" id="done-btn" onclick="markDone()">✓ Mark Done</button>
+      </div>
+    </div>
   </div>
 </div>
 
 <script>
-const DATA_URL = 'data.json';   // served from same GitHub Pages repo
-const REFRESH_MS = 30_000;
+// ── Config ────────────────────────────────────────────────────────────────────
+// Replace with your deployed Apps Script URL
+var APPS_SCRIPT_URL = 'PASTE_YOUR_APPS_SCRIPT_URL_HERE';
 
-function fmt(v) { return v ?? '—'; }
+// Fallback: read from data.json if Apps Script not configured
+var DATA_JSON_URL = 'data.json';
 
-function dirBadge(d) {
-  if (!d) return '—';
-  const l = d.toLowerCase();
-  if (l === 'inbound')  return '<span class="badge badge-in">Inbound</span>';
-  if (l === 'outbound') return '<span class="badge badge-out">Outbound</span>';
-  return d;
-}
+var REFRESH_MS = 30_000;
 
-function waBadge(sent) {
-  const s = String(sent).toLowerCase();
-  if (s === 'yes') return '<span class="badge badge-yes">✓ Sent</span>';
-  return '<span class="badge badge-no">✗ Not Sent</span>';
-}
+// ── State ─────────────────────────────────────────────────────────────────────
+var _rows = [];
+var _activePhone = '';
+var _activeRowIdx = null;
 
-function fmtDur(s) {
-  if (!s && s !== 0) return '—';
-  const sec = parseInt(s, 10);
-  if (isNaN(sec)) return s;
-  if (sec < 60) return `${sec}s`;
-  return `${Math.floor(sec/60)}m ${sec%60}s`;
-}
-
-function nowHour() {
-  return new Date().getHours();
+// ── Data loading ──────────────────────────────────────────────────────────────
+async function fetchData() {
+  if (APPS_SCRIPT_URL && APPS_SCRIPT_URL !== 'PASTE_YOUR_APPS_SCRIPT_URL_HERE') {
+    const r = await fetch(APPS_SCRIPT_URL + '?action=data&_=' + Date.now());
+    if (!r.ok) throw new Error('Apps Script HTTP ' + r.status);
+    return await r.json();
+  } else {
+    // Fallback to static data.json
+    const r = await fetch(DATA_JSON_URL + '?_=' + Date.now());
+    if (!r.ok) throw new Error('data.json HTTP ' + r.status);
+    const raw = await r.json();
+    // Normalise field names from backfill format
+    return raw.map(function(row) {
+      return {
+        datetime:    row['Date & Time']   || row.datetime   || '',
+        phone:       row['Caller Number'] || row.phone      || '',
+        agent:       row['Agent / IVR']   || row.agent      || '',
+        duration:    row['Duration (s)']  || row.duration   || 0,
+        talk_time:   row['Talk Time (s)'] || row.talk_time  || 0,
+        call_status: row['Call Status']   || row.call_status|| '',
+        direction:   row['Direction']     || row.direction  || '',
+        wa_sent:     row['WhatsApp Sent?']|| row.wa_sent    || '',
+        msg_id:      row['WA Message ID'] || row.msg_id     || '',
+        uuid:        row['UUID']          || row.uuid       || '',
+        thread:      row.thread || [],
+        done:        row.done || '',
+        needs_action: false,
+      };
+    });
+  }
 }
 
 async function load() {
   try {
-    const r = await fetch(DATA_URL + '?_=' + Date.now());
-    if (!r.ok) throw new Error(`HTTP ${r.status}`);
-    const rows = await r.json();
-
+    _rows = await fetchData();
     document.getElementById('error-bar').classList.remove('show');
-
-    const todayStr = new Date().toISOString().slice(0,10);
-    const todayRows = rows.filter(row => {
-      const dt = row['Date & Time'] || '';
-      return dt.startsWith(todayStr);
-    });
-
-    // Stats
-    const total  = todayRows.length;
-    const sent   = todayRows.filter(r => String(r['WhatsApp Sent?']).toLowerCase() === 'yes').length;
-    const fail   = todayRows.filter(r => String(r['WhatsApp Sent?']).toLowerCase() === 'no').length;
-    const hourNow = nowHour();
-    const thisHour = todayRows.filter(r => {
-      const dt = r['Date & Time'] || '';
-      if (!dt) return false;
-      try { return new Date(dt).getHours() === hourNow; } catch { return false; }
-    }).length;
-
-    document.getElementById('s-total').textContent = total;
-    document.getElementById('s-sent').textContent  = sent;
-    document.getElementById('s-fail').textContent  = fail;
-    document.getElementById('s-today').textContent = thisHour;
-
-    // Table — show all rows, newest first
-    const sorted = [...rows].reverse();
-    const tbody  = document.getElementById('tbody');
-
-    if (sorted.length === 0) {
-      tbody.innerHTML = '';
-      document.getElementById('empty').style.display = '';
-    } else {
-      document.getElementById('empty').style.display = 'none';
-      tbody.innerHTML = sorted.map(row => `
-        <tr>
-          <td>${fmt(row['Date & Time'])}</td>
-          <td class="phone">${fmt(row['Caller Number'])}</td>
-          <td>${fmt(row['Agent / IVR'])}</td>
-          <td>${fmtDur(row['Duration (s)'])}</td>
-          <td>${fmtDur(row['Talk Time (s)'])}</td>
-          <td><span class="badge badge-missed">${fmt(row['Call Status'])}</span></td>
-          <td>${dirBadge(row['Direction'])}</td>
-          <td>${fmt(row['Disposition'])}</td>
-          <td>${waBadge(row['WhatsApp Sent?'])}</td>
-          <td style="font-size:.72rem;color:#64748b">${fmt(row['WA Message ID'])}</td>
-        </tr>
-      `).join('');
-    }
-
+    render();
     const now = new Date();
     document.getElementById('last-refresh').textContent =
-      `Refreshed at ${now.toLocaleTimeString('en-IN', {hour:'2-digit',minute:'2-digit',second:'2-digit'})}`;
-
-  } catch (e) {
+      'Refreshed at ' + now.toLocaleTimeString('en-IN', {hour:'2-digit',minute:'2-digit',second:'2-digit'});
+  } catch(e) {
     const bar = document.getElementById('error-bar');
-    bar.textContent = `⚠ Could not load data: ${e.message}`;
+    bar.textContent = '⚠ Could not load data: ' + e.message;
     bar.classList.add('show');
     document.getElementById('last-refresh').textContent = 'Refresh failed';
   }
+
+  // Refresh chat modal if open
+  if (_activePhone) refreshModal();
 }
 
+// ── Render table ──────────────────────────────────────────────────────────────
+function fmtDur(s) {
+  const n = parseInt(s, 10);
+  if (!n) return '0s';
+  return n < 60 ? n + 's' : Math.floor(n/60) + 'm ' + (n%60) + 's';
+}
+function dirBadge(d) {
+  if (!d) return '—';
+  const l = d.toLowerCase();
+  if (l === 'inbound'  || l === 'incoming') return '<span class="badge badge-in">Inbound</span>';
+  if (l === 'outbound' || l === 'outgoing') return '<span class="badge badge-out">Outbound</span>';
+  return d;
+}
+function waBadge(v) {
+  const s = String(v).toLowerCase();
+  if (s === 'yes')     return '<span class="badge badge-sent">✓ Sent</span>';
+  if (s === 'pending') return '<span class="badge badge-pending">Pending</span>';
+  return '<span class="badge badge-no">✗ Not Sent</span>';
+}
+
+function render() {
+  const today = new Date().toISOString().slice(0,10);
+  const todayRows = _rows.filter(r => String(r.datetime).startsWith(today));
+
+  document.getElementById('s-total').textContent  = todayRows.length;
+  document.getElementById('s-sent').textContent   = todayRows.filter(r => String(r.wa_sent).toLowerCase() === 'yes').length;
+  document.getElementById('s-fail').textContent   = todayRows.filter(r => String(r.wa_sent).toLowerCase() === 'no').length;
+  document.getElementById('s-action').textContent = _rows.filter(r => r.needs_action).length;
+
+  const tbody = document.getElementById('tbody');
+  if (_rows.length === 0) {
+    tbody.innerHTML = '';
+    document.getElementById('empty').style.display = '';
+    return;
+  }
+  document.getElementById('empty').style.display = 'none';
+
+  tbody.innerHTML = _rows.map(function(row, i) {
+    const needsAction = row.needs_action;
+    const hasThread   = row.thread && row.thread.length > 0;
+    const btnClass    = needsAction ? 'wa-btn needs-action' : 'wa-btn normal';
+    const btnLabel    = needsAction ? '💬 Reply!' : (hasThread ? '💬 Chat' : '💬 Start');
+    return '<tr>' +
+      '<td>' + (row.datetime || '—') + '</td>' +
+      '<td class="phone">' + (row.phone || '—') + '</td>' +
+      '<td>' + (row.agent || 'IVR') + '</td>' +
+      '<td>' + fmtDur(row.duration) + '</td>' +
+      '<td>' + fmtDur(row.talk_time) + '</td>' +
+      '<td><span class="badge badge-missed">' + (row.call_status || 'Missed') + '</span></td>' +
+      '<td>' + dirBadge(row.direction) + '</td>' +
+      '<td>' + waBadge(row.wa_sent) + '</td>' +
+      '<td><button class="' + btnClass + '" onclick="openModal(' + i + ')">' + btnLabel + '</button></td>' +
+    '</tr>';
+  }).join('');
+}
+
+// ── Chat Modal ────────────────────────────────────────────────────────────────
+function openModal(idx) {
+  const row = _rows[idx];
+  if (!row) return;
+  _activePhone   = row.phone;
+  _activeRowIdx  = idx;
+
+  document.getElementById('modal-phone').textContent = row.phone;
+  document.getElementById('modal-time').textContent  = row.datetime;
+  document.getElementById('overlay').classList.add('open');
+  document.getElementById('msg-input').value = '';
+  renderThread(row);
+  document.getElementById('msg-input').focus();
+}
+
+function closeModal() {
+  document.getElementById('overlay').classList.remove('open');
+  _activePhone  = '';
+  _activeRowIdx = null;
+}
+
+function refreshModal() {
+  const row = _rows.find(r => r.phone === _activePhone);
+  if (row) renderThread(row);
+}
+
+function renderThread(row) {
+  const body   = document.getElementById('chat-body');
+  const banner = document.getElementById('done-banner');
+  const thread = row.thread || [];
+
+  if (row.done === 'Yes') {
+    banner.style.display = '';
+  } else {
+    banner.style.display = 'none';
+  }
+
+  if (thread.length === 0) {
+    body.innerHTML = '<div class="no-thread">No messages yet — send the first one below</div>';
+    return;
+  }
+
+  body.innerHTML = thread.map(function(msg) {
+    const side = msg.from === 'us' ? 'us' : 'guest';
+    return '<div class="bubble-wrap ' + side + '">' +
+      '<div class="bubble">' +
+        escHtml(msg.text) +
+        '<div class="time">' + (msg.time || '') + '</div>' +
+      '</div>' +
+    '</div>';
+  }).join('');
+
+  // Scroll to bottom
+  body.scrollTop = body.scrollHeight;
+}
+
+function escHtml(s) {
+  return String(s)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/\n/g,'<br>');
+}
+
+// ── Send reply ────────────────────────────────────────────────────────────────
+async function sendReply() {
+  const input = document.getElementById('msg-input');
+  const btn   = document.getElementById('send-btn');
+  const msg   = input.value.trim();
+  if (!msg || !_activePhone) return;
+
+  if (!APPS_SCRIPT_URL || APPS_SCRIPT_URL === 'PASTE_YOUR_APPS_SCRIPT_URL_HERE') {
+    alert('Apps Script URL not configured. Add it to the APPS_SCRIPT_URL variable in index.html.');
+    return;
+  }
+
+  btn.disabled = true;
+  btn.textContent = 'Sending…';
+
+  try {
+    const url = APPS_SCRIPT_URL + '?action=reply&phone=' +
+      encodeURIComponent(_activePhone) + '&message=' + encodeURIComponent(msg);
+    const r = await fetch(url);
+    const data = await r.json();
+
+    if (data.status === 'sent') {
+      input.value = '';
+      input.style.height = '';
+      await load(); // refresh data + re-render thread
+    } else {
+      alert('Send failed: ' + (data.gupshup || data.message || 'Unknown error'));
+    }
+  } catch(e) {
+    alert('Network error: ' + e.message);
+  }
+
+  btn.disabled = false;
+  btn.textContent = 'Send';
+}
+
+// ── Mark done ─────────────────────────────────────────────────────────────────
+async function markDone() {
+  if (!_activePhone) return;
+  const row = _rows.find(r => r.phone === _activePhone);
+
+  if (!APPS_SCRIPT_URL || APPS_SCRIPT_URL === 'PASTE_YOUR_APPS_SCRIPT_URL_HERE') {
+    alert('Apps Script URL not configured.');
+    return;
+  }
+
+  const url = APPS_SCRIPT_URL + '?action=done&phone=' +
+    encodeURIComponent(_activePhone) + '&uuid=' + encodeURIComponent(row ? row.uuid : '');
+  await fetch(url);
+  await load();
+}
+
+// ── Auto-grow textarea ────────────────────────────────────────────────────────
+function autoGrow(el) {
+  el.style.height = 'auto';
+  el.style.height = Math.min(el.scrollHeight, 120) + 'px';
+}
+
+// ── Close on overlay click ────────────────────────────────────────────────────
+document.getElementById('overlay').addEventListener('click', function(e) {
+  if (e.target === this) closeModal();
+});
+
+// ── Boot ──────────────────────────────────────────────────────────────────────
 load();
 setInterval(load, REFRESH_MS);
 </script>
