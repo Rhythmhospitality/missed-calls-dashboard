@@ -315,6 +315,17 @@ async function load() {
 }
 
 // ── Render table ──────────────────────────────────────────────────────────────
+function fmtIST(dt) {
+  if (!dt) return '—';
+  try {
+    const d = new Date(dt);
+    return d.toLocaleString('en-IN', {
+      timeZone: 'Asia/Kolkata',
+      day: '2-digit', month: 'short', year: 'numeric',
+      hour: '2-digit', minute: '2-digit', hour12: true
+    });
+  } catch(e) { return dt; }
+}
 function fmtDur(s) {
   const n = parseInt(s, 10);
   if (!n) return '0s';
@@ -357,7 +368,7 @@ function render() {
     const btnClass    = needsAction ? 'wa-btn needs-action' : 'wa-btn normal';
     const btnLabel    = needsAction ? '💬 Reply!' : (hasThread ? '💬 Chat' : '💬 Start');
     return '<tr>' +
-      '<td>' + (row.datetime || '—') + '</td>' +
+      '<td>' + fmtIST(row.datetime) + '</td>' +
       '<td class="phone">' + (row.phone || '—') + '</td>' +
       '<td>' + (row.agent || 'IVR') + '</td>' +
       '<td>' + fmtDur(row.duration) + '</td>' +
