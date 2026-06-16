@@ -26,5 +26,19 @@
     "WA Message ID": "",
     "WA Error": "",
     "UUID": "a8b76c2a-7cf1-46ef-b20b-3b764915c229"
+  },
+  {
+    "Date & Time": "2026-06-16 16:19:23",
+    "Caller Number": 919136715183,
+    "Agent / IVR": "Test",
+    "Duration (s)": 0,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "inbound",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "8496c0c6-81de-476c-89b1-a550842957a0",
+    "WA Error": "",
+    "UUID": "test-manual-001"
   }
 ]
