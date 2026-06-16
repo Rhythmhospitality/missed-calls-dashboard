@@ -158,6 +158,12 @@
   .footer-note { font-size: .7rem; color: var(--muted); }
   .done-btn { background: none; border: 1px solid var(--border); color: var(--muted); border-radius: 6px; padding: 5px 12px; font-size: .75rem; cursor: pointer; transition: all .15s; }
   .done-btn:hover { border-color: var(--green); color: var(--green); }
+  .done-row-btn {
+    border: 1px solid var(--border); background: none; color: var(--muted);
+    border-radius: 6px; padding: 5px 10px; font-size: .72rem; cursor: pointer; transition: all .15s; white-space: nowrap;
+  }
+  .done-row-btn:hover { border-color: var(--green); color: var(--green); background: rgba(34,197,94,.08); }
+  .done-row-btn.is-done { border-color: var(--green); color: var(--green); opacity: .6; cursor: default; }
 </style>
 </head>
 <body>
@@ -231,6 +237,7 @@
         <th>Delivery</th>
         <th>Last Message</th>
         <th>Status</th>
+        <th>Done</th>
         <th>Reply</th>
       </tr>
     </thead>
@@ -443,6 +450,10 @@ function render() {
       '<td>' + dlvBadge(row.delivery_status) + '</td>' +
       '<td class="' + lastMsgClass + '">' + lastMsg + '</td>' +
       '<td>' + statusCell + '</td>' +
+      '<td>' + (isDone
+        ? '<button class="done-row-btn is-done" disabled>✓ Done</button>'
+        : '<button class="done-row-btn" onclick="markDoneByIdx(' + globalIdx + ', this)">Mark Done</button>'
+      ) + '</td>' +
       '<td><button class="' + btnClass + '" onclick="openModal(' + globalIdx + ')">' + btnLabel + '</button></td>' +
     '</tr>';
   }).join('');
@@ -634,10 +645,19 @@ async function sendReply() {
   btn.disabled = false; btn.textContent = 'Send';
 }
 
+async function markDoneByIdx(idx, btn) {
+  const row = _rows[idx];
+  if (!row) return;
+  if (btn) { btn.disabled = true; btn.textContent = '…'; }
+  await fetch(APPS_SCRIPT_URL + '?action=done&row_index=' + encodeURIComponent(row.row_index));
+  await load();
+}
+
 async function markDone() {
   if (!_activePhone) return;
   const row = _rows.find(r => r.phone === _activePhone);
-  await fetch(APPS_SCRIPT_URL + '?action=done&phone=' + encodeURIComponent(_activePhone) + '&uuid=' + encodeURIComponent(row ? row.uuid : ''));
+  if (!row) return;
+  await fetch(APPS_SCRIPT_URL + '?action=done&row_index=' + encodeURIComponent(row.row_index));
   await load();
 }
 
