@@ -63,6 +63,24 @@
   .tab.active .tab-badge { background: rgba(0,0,0,.25); color: #fff; }
   .tab-note { font-size: .68rem; color: var(--muted); padding: 0 24px 10px; }
 
+  /* Date selector */
+  .date-bar { display: flex; align-items: center; gap: 10px; padding: 0 24px 14px; flex-wrap: wrap; }
+  .date-bar label { font-size: .78rem; color: var(--muted); }
+  .date-input {
+    background: var(--surface); border: 1px solid var(--border); color: var(--text);
+    border-radius: 8px; padding: 7px 12px; font-size: .82rem; font-family: inherit; outline: none;
+    cursor: pointer;
+  }
+  .date-input:focus { border-color: var(--accent); }
+  .date-input::-webkit-calendar-picker-indicator { filter: invert(.6); cursor: pointer; }
+  .date-clear {
+    background: none; border: 1px solid var(--border); color: var(--muted);
+    border-radius: 8px; padding: 7px 12px; font-size: .78rem; cursor: pointer; transition: all .15s;
+  }
+  .date-clear:hover { border-color: var(--red); color: var(--red); }
+  .date-range { display: flex; align-items: center; gap: 8px; }
+  .date-range span { color: var(--muted); font-size: .78rem; }
+
   /* Table */
   .table-wrap { padding: 0 24px 40px; overflow-x: auto; }
   .refresh-info { font-size: .72rem; color: var(--muted); padding: 0 24px 10px; }
@@ -190,6 +208,16 @@
   <button class="tab"         onclick="setTab('done')"    id="tab-done">Done</button>
   <button class="tab"         onclick="setTab('replied')" id="tab-replied">Replied</button>
 </div>
+<div class="date-bar">
+  <label>From</label>
+  <div class="date-range">
+    <input type="date" class="date-input" id="date-from" onchange="render()" />
+    <span>to</span>
+    <input type="date" class="date-input" id="date-to" onchange="render()" />
+  </div>
+  <button class="date-clear" onclick="clearDates()">✕ Clear</button>
+  <span style="font-size:.72rem;color:var(--muted)" id="date-hint">Showing today by default</span>
+</div>
 <div class="tab-note" id="tab-note">Showing today's calls</div>
 
 <div class="table-wrap">
@@ -246,6 +274,34 @@ var _rows = [];
 var _activePhone = '';
 var _activeRowIdx = null;
 var _activeTab = 'all';
+
+function getDateFrom() { return document.getElementById('date-from').value || ''; }
+function getDateTo()   { return document.getElementById('date-to').value   || ''; }
+
+function clearDates() {
+  document.getElementById('date-from').value = '';
+  document.getElementById('date-to').value   = '';
+  render();
+}
+
+function filterByDate(rows) {
+  var from = getDateFrom();
+  var to   = getDateTo();
+  if (!from && !to) {
+    // Default: today only for "All Calls" tab, all dates for others
+    if (_activeTab === 'all') {
+      var today = new Date().toISOString().slice(0,10);
+      return rows.filter(r => dateStr(r.datetime) === today);
+    }
+    return rows;
+  }
+  return rows.filter(function(r) {
+    var d = dateStr(r.datetime);
+    if (from && d < from) return false;
+    if (to   && d > to)   return false;
+    return true;
+  });
+}
 
 // ── Data ──────────────────────────────────────────────────────
 async function fetchData() {
@@ -327,20 +383,28 @@ function render() {
   const badgeEl = document.getElementById('badge-action');
   badgeEl.textContent = needsActionAll.length > 0 ? needsActionAll.length : '';
 
-  // Filter + note
-  var filtered, note;
-  if (_activeTab === 'action') {
-    filtered = needsActionAll;
-    note = 'Showing all dates — guests who replied and need a response';
-  } else if (_activeTab === 'done') {
-    filtered = doneAll;
-    note = 'Showing all dates — conversations marked as done';
-  } else if (_activeTab === 'replied') {
-    filtered = _rows.filter(r => r.thread && r.thread.length > 0);
-    note = 'Showing all dates — any conversation with messages';
+  // Base pool per tab (all dates)
+  var pool;
+  if (_activeTab === 'action')  pool = needsActionAll;
+  else if (_activeTab === 'done')    pool = doneAll;
+  else if (_activeTab === 'replied') pool = _rows.filter(r => r.thread && r.thread.length > 0);
+  else pool = _rows;
+
+  // Apply date filter on top
+  var filtered = filterByDate(pool);
+
+  // Note
+  var from = getDateFrom(), to = getDateTo();
+  var note;
+  if (from || to) {
+    note = 'Filtered: ' + (from || '…') + ' to ' + (to || '…') + ' — ' + filtered.length + ' records';
+    document.getElementById('date-hint').textContent = filtered.length + ' records in range';
+  } else if (_activeTab === 'all') {
+    note = 'Showing today\'s calls — use date filter to see other dates';
+    document.getElementById('date-hint').textContent = 'Showing today by default';
   } else {
-    filtered = todayRows;
-    note = 'Showing today\'s calls only';
+    note = 'Showing all dates — use date filter to narrow down';
+    document.getElementById('date-hint').textContent = 'All dates';
   }
   document.getElementById('tab-note').textContent = note;
 
