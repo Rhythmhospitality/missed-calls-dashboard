@@ -838,5 +838,26 @@
     "": "",
     "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781699796049,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE5MDUzNjEwMzI4FQIAEhggQUM3MDE2OTRDRkVEN0Y0QzIzMTEzM0M2Mjk5QzI3M0MA\",\"source\":\"919053610328\",\"type\":\"quick_reply\",\"payload\":{\"text\":\"Other\",\"type\":\"button\",\"postbackText\":\"Other\"},\"sender\":{\"phone\":\"919053610328\",\"name\":\"Harsh Sangwan\",\"country_code\":\"91\",\"dial_code\":\"9053610328\"},\"context\":{\"id\":\"033zWM4TDR0YUKSKYgAy9l\",\"gsId\":\"5d434254-bb0d-4116-8adf-06409b0ba8cf\",\"forwarded\":false,\"frequently_forwarded\":false}}}": "",
     "Wed Jun 17 2026 18:06:36 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-17 18:39:33+05:30",
+    "Caller Number": 919167005059,
+    "Agent / IVR": "NA",
+    "Duration (s)": 99,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "7fa129a6-caaf-4245-b1db-f5fd3249092d",
+    "WA Error": "",
+    "UUID": "c451d606-ede0-4604-9a25-67dcad5fbd5c",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781699796049,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE5MDUzNjEwMzI4FQIAEhggQUM3MDE2OTRDRkVEN0Y0QzIzMTEzM0M2Mjk5QzI3M0MA\",\"source\":\"919053610328\",\"type\":\"quick_reply\",\"payload\":{\"text\":\"Other\",\"type\":\"button\",\"postbackText\":\"Other\"},\"sender\":{\"phone\":\"919053610328\",\"name\":\"Harsh Sangwan\",\"country_code\":\"91\",\"dial_code\":\"9053610328\"},\"context\":{\"id\":\"033zWM4TDR0YUKSKYgAy9l\",\"gsId\":\"5d434254-bb0d-4116-8adf-06409b0ba8cf\",\"forwarded\":false,\"frequently_forwarded\":false}}}": "",
+    "Wed Jun 17 2026 18:06:36 GMT+0530 (India Standard Time)": ""
   }
 ]
