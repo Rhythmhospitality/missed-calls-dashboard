@@ -209,8 +209,8 @@
 
 <!-- Tabs -->
 <div class="tabs">
-  <button class="tab active"  onclick="setTab('all')"     id="tab-all">All Calls</button>
-  <button class="tab"         onclick="setTab('action')"  id="tab-action">Needs Action <span class="tab-badge" id="badge-action"></span></button>
+  <button class="tab"         onclick="setTab('all')"     id="tab-all">All Calls</button>
+  <button class="tab active"  onclick="setTab('action')"  id="tab-action">Needs Action <span class="tab-badge" id="badge-action"></span></button>
   <button class="tab"         onclick="setTab('done')"    id="tab-done">Done</button>
   <button class="tab"         onclick="setTab('replied')" id="tab-replied">Replied</button>
 </div>
@@ -280,7 +280,7 @@ var REFRESH_MS = 30000;
 var _rows = [];
 var _activePhone = '';
 var _activeRowIdx = null;
-var _activeTab = 'all';
+var _activeTab = 'action';
 
 function getDateFrom() { return document.getElementById('date-from').value || ''; }
 function getDateTo()   { return document.getElementById('date-to').value   || ''; }
