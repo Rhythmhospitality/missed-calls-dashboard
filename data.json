@@ -17,8 +17,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 00:16:54+05:30",
@@ -38,8 +38,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 16:19:23",
@@ -59,8 +59,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 17:15:36",
@@ -80,8 +80,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 17:39:00",
@@ -101,8 +101,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 17:56:44",
@@ -122,8 +122,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 20:15:14+05:30",
@@ -143,8 +143,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 20:06:49+05:30",
@@ -164,8 +164,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 17:14:06+05:30",
@@ -185,8 +185,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 14:06:03+05:30",
@@ -206,8 +206,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 12:30:00+05:30",
@@ -227,8 +227,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 11:08:12+05:30",
@@ -248,8 +248,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 10:07:15+05:30",
@@ -269,8 +269,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-14 20:51:20+05:30",
@@ -290,8 +290,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-14 19:23:33+05:30",
@@ -311,8 +311,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-14 19:23:05+05:30",
@@ -332,8 +332,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-14 19:21:17+05:30",
@@ -353,8 +353,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 20:14:07+05:30",
@@ -374,8 +374,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 20:17",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 20:12:56+05:30",
@@ -395,8 +395,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 20:17",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 20:29:16+05:30",
@@ -416,8 +416,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 20:32",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 22:07:17+05:30",
@@ -437,8 +437,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 22:12",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 23:26:06+05:30",
@@ -458,8 +458,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 23:27",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 08:49:49+05:30",
@@ -479,8 +479,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 08:53",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 16:01:25+05:30",
@@ -500,8 +500,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:55",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 15:59:39+05:30",
@@ -521,8 +521,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 15:20:11+05:30",
@@ -542,8 +542,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 10:28:29+05:30",
@@ -563,8 +563,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 09:47:04+05:30",
@@ -584,8 +584,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 02:59:11+05:30",
@@ -605,8 +605,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 00:16:25+05:30",
@@ -626,8 +626,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 10:19:59+05:30",
@@ -647,8 +647,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 10:24",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 11:50:50+05:30",
@@ -668,8 +668,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 11:54",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 15:01:18+05:30",
@@ -689,8 +689,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 15:05",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 16:24:21+05:30",
@@ -705,13 +705,13 @@
     "WA Message ID": "36428869-e067-437e-ac49-2974943e80eb",
     "WA Error": "",
     "UUID": "7875ac8a-5aa6-4630-bde0-ab86b6c8f5ec",
-    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Other\",\"time\":\"2026-06-17 16:31\"}]",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Other\",\"time\":\"2026-06-17 16:31\"},{\"from\":\"us\",\"text\":\"Bhagyashree, looking for 7 BHK Villa private villa only for 14th Aug. 26, suggested Rhythm Lonavala but not interested\",\"time\":\"2026-06-18 12:56\"}]",
     "Done": "",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 16:30",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 16:41:21+05:30",
@@ -731,8 +731,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 16:45",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 16:41:18+05:30",
@@ -752,8 +752,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 16:45",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 16:41:06+05:30",
@@ -773,8 +773,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 16:45",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 17:02:48+05:30",
@@ -794,8 +794,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 17:05",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 17:02:33+05:30",
@@ -815,8 +815,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 17:05",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 18:04:45+05:30",
@@ -831,13 +831,13 @@
     "WA Message ID": "5d434254-bb0d-4116-8adf-06409b0ba8cf",
     "WA Error": "",
     "UUID": "eb5bb5fc-0c28-4107-b51d-81758a3e6ba3",
-    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Other\",\"time\":\"2026-06-17 18:06\"}]",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Other\",\"time\":\"2026-06-17 18:06\"},{\"from\":\"us\",\"text\":\"No query, dialled by mistake\",\"time\":\"2026-06-18 12:46\"}]",
     "Done": "",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 18:06",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 18:39:33+05:30",
@@ -852,13 +852,13 @@
     "WA Message ID": "7fa129a6-caaf-4245-b1db-f5fd3249092d",
     "WA Error": "",
     "UUID": "c451d606-ede0-4604-9a25-67dcad5fbd5c",
-    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-17 18:47\"}]",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-17 18:47\"},{\"from\":\"us\",\"text\":\"Vinaya More, guest is already booked\",\"time\":\"2026-06-18 12:45\"}]",
     "Done": "",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 18:46",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 19:02:20+05:30",
@@ -878,8 +878,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 19:06",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 20:27:43+05:30",
@@ -899,8 +899,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 20:31",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 20:39:47+05:30",
@@ -915,13 +915,13 @@
     "WA Message ID": "d40658b9-a977-42b8-97ae-9a5703601abc",
     "WA Error": "",
     "UUID": "a663edd4-ad1d-4e0d-b431-fc7bce867dcb",
-    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Other\",\"time\":\"2026-06-17 20:43\"}]",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Other\",\"time\":\"2026-06-17 20:43\"},{\"from\":\"us\",\"text\":\"Spoke to Vishal , his query is sorted\",\"time\":\"2026-06-18 12:32\"}]",
     "Done": "",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 20:41",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 20:41:11+05:30",
@@ -938,10 +938,388 @@
     "UUID": "3b670c1a-343f-418b-b14f-642eb9b52af1",
     "Conversation Thread": "",
     "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-17 20:47",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-18 09:29:01+05:30",
+    "Caller Number": 918853628409,
+    "Agent / IVR": "NA",
+    "Duration (s)": 84,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "569e56d6-5b39-44a3-9422-e810b270cd91",
+    "WA Error": "",
+    "UUID": "21087cb4-d47b-426c-b73f-3f7d2e6bce0c",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-18 09:33",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-18 11:26:53+05:30",
+    "Caller Number": 919867541887,
+    "Agent / IVR": "NA",
+    "Duration (s)": 76,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "488424a5-61e9-46d3-9a5a-47eecca24845",
+    "WA Error": "",
+    "UUID": "bf288310-6161-490c-bee4-89397f82701d",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-18 11:28\"},{\"from\":\"us\",\"text\":\"Spoke to Shweta Shah, booking inquiry for 20 June which is sold out, so rate offered for alternative date i.e. 21st June , details shared on whatsapp\",\"time\":\"2026-06-18 12:44\"}]",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-18 11:28",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-18 12:01:11+05:30",
+    "Caller Number": 919309439979,
+    "Agent / IVR": "NA",
+    "Duration (s)": 1,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "36b49390-0c1d-495d-88b4-a4c120c7322f",
+    "WA Error": "",
+    "UUID": "a456d584-eada-4957-9e97-c6434eee259c",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-18 12:03",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-18 12:34:43+05:30",
+    "Caller Number": 918853628409,
+    "Agent / IVR": "NA",
+    "Duration (s)": 3,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "732012a7-4d33-4e89-8773-854db21ecdd1",
+    "WA Error": "",
+    "UUID": "d337c188-9a77-4e0d-a495-80d161ae876d",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-18 12:38",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-18 15:46:42",
+    "Caller Number": 919136715183,
+    "Agent / IVR": "Test",
+    "Duration (s)": 0,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "Inbound",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "d8d59d71-c57c-471d-a96d-8efff369fde0",
+    "WA Error": "",
+    "UUID": "test-154642",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"testing talk to yash\",\"time\":\"2026-06-18 15:47\"}]",
+    "Done": "Yes",
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781709206315,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE4MDU1MTQ1OTAzFQIAEhgUM0EzMzg5Mzc2MTNGMkRERDM4NTcA\",\"source\":\"918055145903\",\"type\":\"text\",\"payload\":{\"text\":\"Are there any day plans\"},\"sender\":{\"phone\":\"918055145903\",\"name\":\"Vishal Khar\",\"country_code\":\"91\",\"dial_code\":\"8055145903\"}}}": "",
-    "Wed Jun 17 2026 20:43:27 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-18 15:44:49+05:30",
+    "Caller Number": 919321855090,
+    "Agent / IVR": "NA",
+    "Duration (s)": 5,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "13be9130-9dbc-4aec-bacd-8fd2fd9099a1",
+    "WA Error": "",
+    "UUID": "953b5dd7-8494-4870-a02d-06e53956ef0e",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-18 15:49",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-18 16:04:58+05:30",
+    "Caller Number": 918956557282,
+    "Agent / IVR": "NA",
+    "Duration (s)": 6,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "947033b3-bd3b-419d-872b-bf479198246d",
+    "WA Error": "",
+    "UUID": "b7a2c4ab-c5a5-4846-bd22-0d25fc9363ec",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-18 16:09",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-19 10:16:31+05:30",
+    "Caller Number": 917577994035,
+    "Agent / IVR": "NA",
+    "Duration (s)": 3,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "9a352bd7-c408-4409-b61b-0eaf1506a480",
+    "WA Error": "",
+    "UUID": "72d876cb-00e7-4f1d-b58c-abbdaace468c",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-19 11:01",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-19 08:39:08+05:30",
+    "Caller Number": 919820761843,
+    "Agent / IVR": "NA",
+    "Duration (s)": 100,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "d229ef35-79d6-4c45-aec1-431759ae17e0",
+    "WA Error": "",
+    "UUID": "28174695-21e1-4503-bf13-75c04d83845a",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-19 11:01",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-19 23:15:10+05:30",
+    "Caller Number": 918103238241,
+    "Agent / IVR": "NA",
+    "Duration (s)": 82,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "ec311b81-553e-42aa-90b8-11fc20ae0879",
+    "WA Error": "",
+    "UUID": "63d2f4a7-972c-4a99-9afc-776ae9f3ca4f",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-20 14:01",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-19 21:04:20+05:30",
+    "Caller Number": 919636501117,
+    "Agent / IVR": "NA",
+    "Duration (s)": 76,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "770b4da7-1ae5-41ae-8d43-5c111f0886de",
+    "WA Error": "",
+    "UUID": "e31f2c84-1560-41e9-b1d2-d22e58e51f92",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-20 14:01",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-19 21:03:35+05:30",
+    "Caller Number": 918879991325,
+    "Agent / IVR": "NA",
+    "Duration (s)": 1,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "b7c050e2-9a1b-4bef-9d9c-9f0ba7632472",
+    "WA Error": "",
+    "UUID": "ab80f1f1-9820-4e88-bee5-03b568f95b6f",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-20 14:01",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-19 19:23:52+05:30",
+    "Caller Number": 917079226010,
+    "Agent / IVR": "NA",
+    "Duration (s)": 1,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "d7a273d3-7428-4bea-a426-e51fa0efc1ef",
+    "WA Error": "",
+    "UUID": "053562a9-00f6-4253-a585-0f66631772dc",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-20 14:01",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-19 18:57:49+05:30",
+    "Caller Number": 919773192332,
+    "Agent / IVR": "NA",
+    "Duration (s)": 4,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "6a9cc738-e4b7-47d8-bd17-f7aca4a6232f",
+    "WA Error": "",
+    "UUID": "1525756f-a8a5-4e1e-aff6-e1a6f41a0cc7",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-20 14:01",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-19 17:42:45+05:30",
+    "Caller Number": 919136715183,
+    "Agent / IVR": "NA",
+    "Duration (s)": 30,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "51139682-804b-46bb-9381-1d0f0ba5f7c1",
+    "WA Error": "",
+    "UUID": "888ad588-652a-49eb-87fd-421f98f2b779",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-20 14:01",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-19 16:52:07+05:30",
+    "Caller Number": 919121227199,
+    "Agent / IVR": "NA",
+    "Duration (s)": 6,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "86588c36-69a5-4ca6-9240-73906a01816c",
+    "WA Error": "",
+    "UUID": "157606b2-2d8b-48a2-88dd-49ec5ecc9a21",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-20 14:01",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-19 15:33:49+05:30",
+    "Caller Number": 919818125184,
+    "Agent / IVR": "NA",
+    "Duration (s)": 4,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "b5dfbc95-2a30-4aeb-84e9-037ad76cf911",
+    "WA Error": "",
+    "UUID": "b181d1b9-99d1-4d6c-864b-10632b0cbf1f",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-20 14:01",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-20 18:06:16+05:30",
+    "Caller Number": 917972063464,
+    "Agent / IVR": "NA",
+    "Duration (s)": 9,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "91cddd16-0845-41ca-9b5f-1260710b802e",
+    "WA Error": "",
+    "UUID": "6078e58a-0120-44ad-92b1-936adf85de76",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781945093507,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033ByMp8kSs7Me3lhPHmYG\",\"gsId\":\"770b4da7-1ae5-41ae-8d43-5c111f0886de\",\"type\":\"read\",\"destination\":\"919636501117\",\"payload\":{\"ts\":1781945092}}}": "",
+    "Sat Jun 20 2026 14:14:54 GMT+0530 (India Standard Time)": ""
   }
 ]
