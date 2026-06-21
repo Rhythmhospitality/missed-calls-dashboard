@@ -1531,5 +1531,26 @@
     "": "",
     "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781999325550,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033BVioPWOrM5iN0nMsz3F\",\"gsId\":\"221902fe-1e97-424f-82f1-d6454fbdd33c\",\"type\":\"failed\",\"destination\":\"919579355164\",\"payload\":{\"code\":130472,\"reason\":\"User's number is part of an experiment, (#130472) Failed to send message because this user's phone number is part of an experiment\"}}}": "",
     "Sun Jun 21 2026 05:18:46 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-21 09:52:20+05:30",
+    "Caller Number": 918276964974,
+    "Agent / IVR": "NA",
+    "Duration (s)": 46,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "b3ecfe8e-946b-45ad-a643-b22ea526ff86",
+    "WA Error": "",
+    "UUID": "626148f3-41ff-4b76-9b83-4b1cfd9ccf4e",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1781999325550,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033BVioPWOrM5iN0nMsz3F\",\"gsId\":\"221902fe-1e97-424f-82f1-d6454fbdd33c\",\"type\":\"failed\",\"destination\":\"919579355164\",\"payload\":{\"code\":130472,\"reason\":\"User's number is part of an experiment, (#130472) Failed to send message because this user's phone number is part of an experiment\"}}}": "",
+    "Sun Jun 21 2026 05:18:46 GMT+0530 (India Standard Time)": ""
   }
 ]
