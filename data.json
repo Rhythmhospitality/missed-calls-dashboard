@@ -1636,5 +1636,26 @@
     "": "",
     "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022486039,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033C4LMYcNkfcRbosuViXB\",\"gsId\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"failed\",\"destination\":\"918275591973\",\"payload\":{\"code\":131049,\"reason\":\"This message was not delivered to maintain healthy ecosystem engagement., (#131049) In order to maintain a healthy ecosystem engagement, the message failed to be delivered.\"}}}": "",
     "Sun Jun 21 2026 11:44:48 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-21 13:46:59+05:30",
+    "Caller Number": 919970873077,
+    "Agent / IVR": "NA",
+    "Duration (s)": 100,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "7c45d041-e55f-4f94-a5d2-51789857437f",
+    "WA Error": "",
+    "UUID": "c54b16b5-dbb6-4bf4-9b0d-e206c8a7d078",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022486039,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033C4LMYcNkfcRbosuViXB\",\"gsId\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"failed\",\"destination\":\"918275591973\",\"payload\":{\"code\":131049,\"reason\":\"This message was not delivered to maintain healthy ecosystem engagement., (#131049) In order to maintain a healthy ecosystem engagement, the message failed to be delivered.\"}}}": "",
+    "Sun Jun 21 2026 11:44:48 GMT+0530 (India Standard Time)": ""
   }
 ]
