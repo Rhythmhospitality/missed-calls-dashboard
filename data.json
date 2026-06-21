@@ -17,8 +17,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 00:16:54+05:30",
@@ -38,8 +38,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 16:19:23",
@@ -59,8 +59,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 17:15:36",
@@ -80,8 +80,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 17:39:00",
@@ -101,8 +101,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 17:56:44",
@@ -122,8 +122,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 20:15:14+05:30",
@@ -143,8 +143,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 20:06:49+05:30",
@@ -164,8 +164,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 17:14:06+05:30",
@@ -185,8 +185,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 14:06:03+05:30",
@@ -206,8 +206,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 12:30:00+05:30",
@@ -227,8 +227,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 11:08:12+05:30",
@@ -248,8 +248,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 10:07:15+05:30",
@@ -269,8 +269,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-14 20:51:20+05:30",
@@ -290,8 +290,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-14 19:23:33+05:30",
@@ -311,8 +311,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-14 19:23:05+05:30",
@@ -332,8 +332,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-14 19:21:17+05:30",
@@ -353,8 +353,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 20:14:07+05:30",
@@ -374,8 +374,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 20:17",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 20:12:56+05:30",
@@ -395,8 +395,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 20:17",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 20:29:16+05:30",
@@ -416,8 +416,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 20:32",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 22:07:17+05:30",
@@ -437,8 +437,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 22:12",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 23:26:06+05:30",
@@ -458,8 +458,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 23:27",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 08:49:49+05:30",
@@ -479,8 +479,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 08:53",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 16:01:25+05:30",
@@ -500,8 +500,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:55",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 15:59:39+05:30",
@@ -521,8 +521,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 15:20:11+05:30",
@@ -542,8 +542,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 10:28:29+05:30",
@@ -563,8 +563,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 09:47:04+05:30",
@@ -584,8 +584,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 02:59:11+05:30",
@@ -605,8 +605,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 00:16:25+05:30",
@@ -626,8 +626,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 10:19:59+05:30",
@@ -647,8 +647,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 10:24",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 11:50:50+05:30",
@@ -668,8 +668,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 11:54",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 15:01:18+05:30",
@@ -689,8 +689,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 15:05",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 16:24:21+05:30",
@@ -710,8 +710,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 16:30",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 16:41:21+05:30",
@@ -731,8 +731,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 16:45",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 16:41:18+05:30",
@@ -752,8 +752,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 16:45",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 16:41:06+05:30",
@@ -773,8 +773,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 16:45",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 17:02:48+05:30",
@@ -794,8 +794,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 17:05",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 17:02:33+05:30",
@@ -815,8 +815,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 17:05",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 18:04:45+05:30",
@@ -836,8 +836,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 18:06",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 18:39:33+05:30",
@@ -857,8 +857,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 18:46",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 19:02:20+05:30",
@@ -878,8 +878,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 19:06",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 20:27:43+05:30",
@@ -899,8 +899,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 20:31",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 20:39:47+05:30",
@@ -920,8 +920,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 20:41",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 20:41:11+05:30",
@@ -941,8 +941,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 20:47",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-18 09:29:01+05:30",
@@ -962,8 +962,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-18 09:33",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-18 11:26:53+05:30",
@@ -983,8 +983,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-18 11:28",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-18 12:01:11+05:30",
@@ -1004,8 +1004,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-18 12:03",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-18 12:34:43+05:30",
@@ -1025,8 +1025,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-18 12:38",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-18 15:46:42",
@@ -1046,8 +1046,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-18 15:44:49+05:30",
@@ -1067,8 +1067,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-18 15:49",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-18 16:04:58+05:30",
@@ -1088,8 +1088,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-18 16:09",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 10:16:31+05:30",
@@ -1109,8 +1109,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-19 11:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 08:39:08+05:30",
@@ -1130,8 +1130,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-19 11:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 23:15:10+05:30",
@@ -1151,8 +1151,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 14:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 21:04:20+05:30",
@@ -1172,8 +1172,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 14:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 21:03:35+05:30",
@@ -1193,8 +1193,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 14:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 19:23:52+05:30",
@@ -1214,8 +1214,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 14:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 18:57:49+05:30",
@@ -1235,8 +1235,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 14:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 17:42:45+05:30",
@@ -1256,8 +1256,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 14:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 16:52:07+05:30",
@@ -1277,8 +1277,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 14:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 15:33:49+05:30",
@@ -1298,8 +1298,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 14:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 18:06:16+05:30",
@@ -1319,8 +1319,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 18:06",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 21:42:15+05:30",
@@ -1340,8 +1340,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 21:47",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 21:55:53+05:30",
@@ -1361,8 +1361,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 21:57",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 21:55:21+05:30",
@@ -1382,8 +1382,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 21:57",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 21:53:21+05:30",
@@ -1403,8 +1403,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 21:57",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 21:59:54+05:30",
@@ -1424,8 +1424,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 22:02",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 21:59:30+05:30",
@@ -1445,8 +1445,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 22:02",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 21:57:33+05:30",
@@ -1466,8 +1466,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 22:02",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 22:10:48+05:30",
@@ -1487,8 +1487,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 22:12",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 00:42:26+05:30",
@@ -1508,8 +1508,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 00:43",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 05:15:28+05:30",
@@ -1529,8 +1529,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 05:18",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 09:52:20+05:30",
@@ -1550,8 +1550,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 09:54",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 10:49:45+05:30",
@@ -1571,7 +1571,70 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 10:54",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782019469405,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033C3xjzB34t4G34XAwpec\",\"gsId\":\"70f59a5d-ef82-490a-8006-66ed44439e5e\",\"destination\":\"919588469421\"}}}": "",
-    "Sun Jun 21 2026 10:54:30 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-21 11:43:55+05:30",
+    "Caller Number": 918275591973,
+    "Agent / IVR": "NA",
+    "Duration (s)": 29,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "53078bba-5548-4739-a6a5-1a19e2362d36",
+    "WA Error": "",
+    "UUID": "b7be19f8-7753-4c40-b979-6fd847e34f32",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-21 11:44",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-21 11:43:07+05:30",
+    "Caller Number": 918275591973,
+    "Agent / IVR": "NA",
+    "Duration (s)": 6,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "b6ef97b0-bb00-43c6-bee0-9574a507c10a",
+    "WA Error": "",
+    "UUID": "fbebb14a-7a8c-4048-be11-3ed105782619",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-21 11:44",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-21 11:42:04+05:30",
+    "Caller Number": 918275591973,
+    "Agent / IVR": "NA",
+    "Duration (s)": 88,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "4e87a0b0-bb82-4c2f-b188-0dc17050bb53",
+    "WA Error": "",
+    "UUID": "7117598b-1180-4747-b5fa-0dec77ce164b",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782022478320,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"b6ef97b0-bb00-43c6-bee0-9574a507c10a\",\"type\":\"enqueued\",\"destination\":\"918275591973\",\"payload\":{\"whatsappMessageId\":\"033C4LMYcNkfcRbosuViXB\",\"type\":\"template\"}}}": "",
+    "Sun Jun 21 2026 11:44:39 GMT+0530 (India Standard Time)": ""
   }
 ]
