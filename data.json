@@ -1762,5 +1762,26 @@
     "": "",
     "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782061699389,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033uEeYmBbo309qXP0UmR8\",\"gsId\":\"f32c5c4f-a0cc-428d-8ec7-a8f6539e35b5\",\"type\":\"read\",\"destination\":\"918341148991\",\"payload\":{\"ts\":1782061696}}}": "",
     "Sun Jun 21 2026 22:38:21 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-22 08:00:34+05:30",
+    "Caller Number": 919624375732,
+    "Agent / IVR": "NA",
+    "Duration (s)": 76,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "9eb0d83d-5761-4277-b8f3-1bd7e6ce8e56",
+    "WA Error": "",
+    "UUID": "3526131f-357c-4676-a4ac-9911ee44c1ea",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782061699389,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033uEeYmBbo309qXP0UmR8\",\"gsId\":\"f32c5c4f-a0cc-428d-8ec7-a8f6539e35b5\",\"type\":\"read\",\"destination\":\"918341148991\",\"payload\":{\"ts\":1782061696}}}": "",
+    "Sun Jun 21 2026 22:38:21 GMT+0530 (India Standard Time)": ""
   }
 ]
