@@ -2119,5 +2119,26 @@
     "": "",
     "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782147120833,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033CTIwui2zRgtEMFRI3M4\",\"gsId\":\"aecad766-c669-4c9c-8289-61819b44b631\",\"destination\":\"919638304850\"}}}": "",
     "Mon Jun 22 2026 22:22:01 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-22 22:25:37+05:30",
+    "Caller Number": 919638304850,
+    "Agent / IVR": "NA",
+    "Duration (s)": 23,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "76423214-fc30-4302-b750-a5d90c4157bc",
+    "WA Error": "",
+    "UUID": "fd71f653-89fb-4cc2-9538-ae95c356130f",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782147120833,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033CTIwui2zRgtEMFRI3M4\",\"gsId\":\"aecad766-c669-4c9c-8289-61819b44b631\",\"destination\":\"919638304850\"}}}": "",
+    "Mon Jun 22 2026 22:22:01 GMT+0530 (India Standard Time)": ""
   }
 ]
