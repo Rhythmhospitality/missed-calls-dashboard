@@ -1783,5 +1783,26 @@
     "": "",
     "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782095616047,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE5NjI0Mzc1NzMyFQIAEhggQUM5MEEzRTY5QkY3NEIxNEU3NDdGNThENEVEMzIyMzkA\",\"source\":\"919624375732\",\"type\":\"quick_reply\",\"payload\":{\"text\":\"Room Booking\",\"type\":\"button\",\"postbackText\":\"Room Booking\"},\"sender\":{\"phone\":\"919624375732\",\"name\":\"Nishh Joshi\",\"country_code\":\"91\",\"dial_code\":\"9624375732\"},\"context\":{\"id\":\"033CyEIvOBXSjGlG9l1np3\",\"gsId\":\"9eb0d83d-5761-4277-b8f3-1bd7e6ce8e56\",\"forwarded\":false,\"frequently_forwarded\":false}}}": "",
     "Mon Jun 22 2026 08:03:38 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-22 09:24:30+05:30",
+    "Caller Number": 919004063632,
+    "Agent / IVR": "NA",
+    "Duration (s)": 5,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "ac450855-035b-442e-ac8c-ed42958d3cd6",
+    "WA Error": "",
+    "UUID": "0b7054de-4707-4d7e-9f06-8a0e8b0e4f98",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782095616047,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE5NjI0Mzc1NzMyFQIAEhggQUM5MEEzRTY5QkY3NEIxNEU3NDdGNThENEVEMzIyMzkA\",\"source\":\"919624375732\",\"type\":\"quick_reply\",\"payload\":{\"text\":\"Room Booking\",\"type\":\"button\",\"postbackText\":\"Room Booking\"},\"sender\":{\"phone\":\"919624375732\",\"name\":\"Nishh Joshi\",\"country_code\":\"91\",\"dial_code\":\"9624375732\"},\"context\":{\"id\":\"033CyEIvOBXSjGlG9l1np3\",\"gsId\":\"9eb0d83d-5761-4277-b8f3-1bd7e6ce8e56\",\"forwarded\":false,\"frequently_forwarded\":false}}}": "",
+    "Mon Jun 22 2026 08:03:38 GMT+0530 (India Standard Time)": ""
   }
 ]
