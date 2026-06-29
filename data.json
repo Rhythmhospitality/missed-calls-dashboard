@@ -17,8 +17,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 00:16:54+05:30",
@@ -38,8 +38,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 16:19:23",
@@ -59,8 +59,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 17:15:36",
@@ -80,8 +80,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 17:39:00",
@@ -101,8 +101,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 17:56:44",
@@ -122,8 +122,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 20:15:14+05:30",
@@ -143,8 +143,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 20:06:49+05:30",
@@ -164,8 +164,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 17:14:06+05:30",
@@ -185,8 +185,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 14:06:03+05:30",
@@ -206,8 +206,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 12:30:00+05:30",
@@ -227,8 +227,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 11:08:12+05:30",
@@ -248,8 +248,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-15 10:07:15+05:30",
@@ -269,8 +269,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-14 20:51:20+05:30",
@@ -290,8 +290,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-14 19:23:33+05:30",
@@ -311,8 +311,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-14 19:23:05+05:30",
@@ -332,8 +332,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-14 19:21:17+05:30",
@@ -353,8 +353,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 18:10",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 20:14:07+05:30",
@@ -374,8 +374,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 20:17",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 20:12:56+05:30",
@@ -395,8 +395,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 20:17",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 20:29:16+05:30",
@@ -416,8 +416,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 20:32",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 22:07:17+05:30",
@@ -437,8 +437,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 22:12",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 23:26:06+05:30",
@@ -458,8 +458,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-16 23:27",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 08:49:49+05:30",
@@ -479,8 +479,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 08:53",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 16:01:25+05:30",
@@ -500,8 +500,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:55",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 15:59:39+05:30",
@@ -521,8 +521,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 15:20:11+05:30",
@@ -542,8 +542,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 10:28:29+05:30",
@@ -563,8 +563,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 09:47:04+05:30",
@@ -584,8 +584,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 02:59:11+05:30",
@@ -605,8 +605,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-16 00:16:25+05:30",
@@ -626,8 +626,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 09:56",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 10:19:59+05:30",
@@ -647,8 +647,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 10:24",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 11:50:50+05:30",
@@ -668,8 +668,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 11:54",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 15:01:18+05:30",
@@ -689,8 +689,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 15:05",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 16:24:21+05:30",
@@ -710,8 +710,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 16:30",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 16:41:21+05:30",
@@ -731,8 +731,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 16:45",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 16:41:18+05:30",
@@ -752,8 +752,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 16:45",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 16:41:06+05:30",
@@ -773,8 +773,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 16:45",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 17:02:48+05:30",
@@ -794,8 +794,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 17:05",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 17:02:33+05:30",
@@ -815,8 +815,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 17:05",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 18:04:45+05:30",
@@ -836,8 +836,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 18:06",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 18:39:33+05:30",
@@ -857,8 +857,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 18:46",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 19:02:20+05:30",
@@ -878,8 +878,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 19:06",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 20:27:43+05:30",
@@ -899,8 +899,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 20:31",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 20:39:47+05:30",
@@ -920,8 +920,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 20:41",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-17 20:41:11+05:30",
@@ -941,8 +941,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-17 20:47",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-18 09:29:01+05:30",
@@ -962,8 +962,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-18 09:33",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-18 11:26:53+05:30",
@@ -983,8 +983,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-18 11:28",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-18 12:01:11+05:30",
@@ -1004,8 +1004,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-18 12:03",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-18 12:34:43+05:30",
@@ -1025,8 +1025,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-18 12:38",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-18 15:46:42",
@@ -1046,8 +1046,8 @@
     "Delivery Status": "",
     "Status Updated At": "",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-18 15:44:49+05:30",
@@ -1067,8 +1067,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-18 15:49",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-18 16:04:58+05:30",
@@ -1088,8 +1088,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-18 16:09",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 10:16:31+05:30",
@@ -1109,8 +1109,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-19 11:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 08:39:08+05:30",
@@ -1130,8 +1130,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-19 11:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 23:15:10+05:30",
@@ -1151,8 +1151,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 14:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 21:04:20+05:30",
@@ -1172,8 +1172,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 14:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 21:03:35+05:30",
@@ -1193,8 +1193,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 14:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 19:23:52+05:30",
@@ -1214,8 +1214,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 14:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 18:57:49+05:30",
@@ -1235,8 +1235,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 14:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 17:42:45+05:30",
@@ -1256,8 +1256,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 14:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 16:52:07+05:30",
@@ -1277,8 +1277,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 14:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-19 15:33:49+05:30",
@@ -1298,8 +1298,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 14:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 18:06:16+05:30",
@@ -1314,13 +1314,13 @@
     "WA Message ID": "91cddd16-0845-41ca-9b5f-1260710b802e",
     "WA Error": "",
     "UUID": "6078e58a-0120-44ad-92b1-936adf85de76",
-    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"He'll\",\"time\":\"2026-06-20 18:52\"},{\"from\":\"guest\",\"text\":\"Job vacancy Available hai Department food and beverage\",\"time\":\"2026-06-20 18:52\"}]",
-    "Done": "Yes",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"He'll\",\"time\":\"2026-06-20 18:52\"},{\"from\":\"guest\",\"text\":\"Job vacancy Available hai Department food and beverage\",\"time\":\"2026-06-20 18:52\"},{\"from\":\"guest\",\"text\":\"Other\",\"time\":\"2026-06-26 22:33\"}]",
+    "Done": "",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 18:06",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 21:42:15+05:30",
@@ -1340,8 +1340,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 21:47",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 21:55:53+05:30",
@@ -1361,8 +1361,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 21:57",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 21:55:21+05:30",
@@ -1382,8 +1382,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 21:57",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 21:53:21+05:30",
@@ -1403,8 +1403,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 21:57",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 21:59:54+05:30",
@@ -1424,8 +1424,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 22:02",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 21:59:30+05:30",
@@ -1445,8 +1445,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 22:02",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 21:57:33+05:30",
@@ -1466,8 +1466,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 22:02",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-20 22:10:48+05:30",
@@ -1487,8 +1487,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-20 22:12",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 00:42:26+05:30",
@@ -1508,8 +1508,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 00:43",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 05:15:28+05:30",
@@ -1529,8 +1529,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 05:18",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 09:52:20+05:30",
@@ -1550,8 +1550,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 09:54",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 10:49:45+05:30",
@@ -1571,8 +1571,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 10:54",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 11:43:55+05:30",
@@ -1592,8 +1592,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 11:44",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 11:43:07+05:30",
@@ -1613,8 +1613,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 11:44",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 11:42:04+05:30",
@@ -1634,8 +1634,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 11:44",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 13:46:59+05:30",
@@ -1655,8 +1655,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 13:50",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 16:32:04+05:30",
@@ -1676,8 +1676,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 16:35",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 16:31:56+05:30",
@@ -1697,8 +1697,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 16:35",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 16:30:35+05:30",
@@ -1718,8 +1718,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 16:35",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 16:30:17+05:30",
@@ -1739,8 +1739,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 16:35",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-21 19:07:52+05:30",
@@ -1760,8 +1760,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-21 19:11",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 08:00:34+05:30",
@@ -1781,8 +1781,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 08:02",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 09:24:30+05:30",
@@ -1802,8 +1802,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 09:27",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 15:42:27+05:30",
@@ -1823,8 +1823,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 15:43",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 17:32:42+05:30",
@@ -1844,8 +1844,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 17:33",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 18:34:27+05:30",
@@ -1865,8 +1865,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 18:39",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 19:08:28+05:30",
@@ -1882,12 +1882,12 @@
     "WA Error": "",
     "UUID": "59f294c5-6b7c-4311-bb7d-07bcceeac850",
     "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-22 19:10\"}]",
-    "Done": "",
+    "Done": "Yes",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 19:09",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 19:17:43+05:30",
@@ -1903,12 +1903,12 @@
     "WA Error": "",
     "UUID": "a97da9b3-2134-4370-931f-c2e170cfcc68",
     "Conversation Thread": "",
-    "Done": "",
+    "Done": "Yes",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 19:19",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 19:16:16+05:30",
@@ -1924,12 +1924,12 @@
     "WA Error": "",
     "UUID": "e555d528-6cd5-4f8a-9fa1-1a089a30c660",
     "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-22 19:25\"}]",
-    "Done": "",
+    "Done": "Yes",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 19:19",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 19:14:30+05:30",
@@ -1944,13 +1944,13 @@
     "WA Message ID": "55b0ec0b-7e87-49d2-bbc8-516578c89d9d",
     "WA Error": "",
     "UUID": "af8bfb60-e04e-4b0e-94e6-612f62d64bf7",
-    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-22 20:01\"}]",
-    "Done": "",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-22 20:01\"},{\"from\":\"us\",\"text\":\"Tried calling you, but no response. Please share your requirements\",\"time\":\"2026-06-23 15:29\"},{\"from\":\"guest\",\"text\":\"Check in on 28th and check out on 30th. Pls share the tariff details\",\"time\":\"2026-06-23 16:01\"}]",
+    "Done": "Yes",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 19:19",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 19:14:20+05:30",
@@ -1970,8 +1970,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 19:19",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 19:31:09+05:30",
@@ -1987,12 +1987,12 @@
     "WA Error": "",
     "UUID": "6bf5762c-4182-4df6-aee8-38fc5ba0c518",
     "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-22 19:35\"}]",
-    "Done": "",
+    "Done": "Yes",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 19:34",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 19:36:06+05:30",
@@ -2008,12 +2008,12 @@
     "WA Error": "",
     "UUID": "2a0155f8-78f4-43c3-bedf-dbf60a7801e5",
     "Conversation Thread": "",
-    "Done": "",
+    "Done": "Yes",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 19:39",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 19:51:04+05:30",
@@ -2033,8 +2033,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 19:55",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 19:55:22+05:30",
@@ -2054,8 +2054,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 20:05",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 21:30:56+05:30",
@@ -2070,13 +2070,13 @@
     "WA Message ID": "01b8787c-a648-443a-9213-1d46b51c611b",
     "WA Error": "",
     "UUID": "e932ef92-71ef-48f0-86c3-0cdc5ee5a47a",
-    "Conversation Thread": "",
-    "Done": "",
+    "Conversation Thread": "[{\"from\":\"us\",\"text\":\"Tried calling you but no response\",\"time\":\"2026-06-23 15:24\"},{\"from\":\"guest\",\"text\":\"Sorry for that, but requirement of room yesterday from your side no reply so we stayed in fern hotel, next time we try.\",\"time\":\"2026-06-23 16:46\"}]",
+    "Done": "Yes",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 21:35",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 22:19:43+05:30",
@@ -2092,12 +2092,12 @@
     "WA Error": "",
     "UUID": "4a698d47-ba72-4127-bbf3-cdca4cf3680f",
     "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-22 22:20\"}]",
-    "Done": "",
+    "Done": "Yes",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 22:20",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 22:17:00+05:30",
@@ -2117,8 +2117,8 @@
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 22:20",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 22:25:37+05:30",
@@ -2133,13 +2133,13 @@
     "WA Message ID": "76423214-fc30-4302-b750-a5d90c4157bc",
     "WA Error": "",
     "UUID": "fd71f653-89fb-4cc2-9538-ae95c356130f",
-    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-22 22:32\"}]",
-    "Done": "",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-22 22:32\"},{\"from\":\"us\",\"text\":\"As discussed, we cannot match your budget\",\"time\":\"2026-06-23 14:09\"},{\"from\":\"us\",\"text\":\"Please ignore the previous message\",\"time\":\"2026-06-23 14:14\"},{\"from\":\"us\",\"text\":\"As discussed ,resort is completely booked for 4th July 26, please suggest alternative dates if any\",\"time\":\"2026-06-23 14:16\"},{\"from\":\"guest\",\"text\":\"Okay\",\"time\":\"2026-06-23 14:16\"}]",
+    "Done": "Yes",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 22:30",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-22 22:57:17+05:30",
@@ -2154,13 +2154,13 @@
     "WA Message ID": "18efff21-ea38-46b4-9352-4a90439c2ca4",
     "WA Error": "",
     "UUID": "11c2d7fa-2f50-4871-8642-a9256e21534b",
-    "Conversation Thread": "",
-    "Done": "",
+    "Conversation Thread": "[{\"from\":\"us\",\"text\":\"As discussed, we cannot match your budget\",\"time\":\"2026-06-23 14:10\"}]",
+    "Done": "Yes",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-22 23:01",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-23 08:17:38+05:30",
@@ -2176,12 +2176,12 @@
     "WA Error": "",
     "UUID": "62add386-df34-4add-a275-fc3ce512a893",
     "Conversation Thread": "",
-    "Done": "",
+    "Done": "Yes",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-23 08:21",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   },
   {
     "Date & Time": "2026-06-23 09:27:38+05:30",
@@ -2196,12 +2196,1314 @@
     "WA Message ID": "665e7c2c-f36d-4a31-a1be-f0ea4aca4637",
     "WA Error": "",
     "UUID": "d6487163-6cc9-40b4-91db-d2edc9f0cb1d",
-    "Conversation Thread": "",
-    "Done": "",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-23 09:41\"}]",
+    "Done": "Yes",
     "Delivery Status": "Enqueued",
     "Status Updated At": "2026-06-23 09:32",
     "": "",
-    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782187335255,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033DacauZJX8zTtIjBh082\",\"gsId\":\"665e7c2c-f36d-4a31-a1be-f0ea4aca4637\",\"destination\":\"919930230768\"}}}": "",
-    "Tue Jun 23 2026 09:32:16 GMT+0530 (India Standard Time)": ""
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-23 14:51:21+05:30",
+    "Caller Number": 919867697989,
+    "Agent / IVR": "NA",
+    "Duration (s)": 8,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "accc439a-26fa-45e7-ab95-7abd2ff0a1a9",
+    "WA Error": "",
+    "UUID": "a138764b-b5cf-4b2c-a11b-b58f6ecc34bb",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-23 14:53",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-23 15:50:59+05:30",
+    "Caller Number": 919414145838,
+    "Agent / IVR": "NA",
+    "Duration (s)": 2,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "3efc645d-ae0f-430b-9105-1319333b8cce",
+    "WA Error": "",
+    "UUID": "01d9ab1b-ff6e-47dc-a76c-2c61248dd44c",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-23 15:53",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-23 17:48:12+05:30",
+    "Caller Number": 919538784752,
+    "Agent / IVR": "NA",
+    "Duration (s)": 10,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "3db8dd5f-a6e7-49d2-90b2-4e20f99caab9",
+    "WA Error": "",
+    "UUID": "dfb5c60f-c92a-4644-bfc3-fb71923a2119",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-23 17:49",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-23 20:24:46+05:30",
+    "Caller Number": 919823224563,
+    "Agent / IVR": "NA",
+    "Duration (s)": 101,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "5e805503-80ca-4a60-96bc-b882776f6d56",
+    "WA Error": "",
+    "UUID": "b87f7522-9b05-4b23-bb61-18c12f90e76f",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-23 20:34\"}]",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-23 20:32",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-23 20:36:38+05:30",
+    "Caller Number": 919850664624,
+    "Agent / IVR": "NA",
+    "Duration (s)": 0,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "9ff409e6-c2d1-4868-be9a-c6b66a275ffb",
+    "WA Error": "",
+    "UUID": "a0b74433-912c-4c72-ac35-2bdc38f65cb2",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-23 20:37",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-23 21:40:47+05:30",
+    "Caller Number": 917379606662,
+    "Agent / IVR": "NA",
+    "Duration (s)": 23,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "2ef33714-f8f9-4ab1-b0b2-5e7dd9e33cb0",
+    "WA Error": "",
+    "UUID": "07762698-681b-4ded-82a5-f69f43209b1b",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-23 21:42",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-23 22:33:11+05:30",
+    "Caller Number": 917506796545,
+    "Agent / IVR": "NA",
+    "Duration (s)": 67,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "e944aa03-8cdd-4cf7-a0b8-df221fd39f2c",
+    "WA Error": "",
+    "UUID": "2b3da66a-1ae7-4f98-a9fc-b751f7454012",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Other\",\"time\":\"2026-06-23 22:37\"},{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-23 22:37\"}]",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-23 22:37",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-24 08:50:15+05:30",
+    "Caller Number": 919920890099,
+    "Agent / IVR": "NA",
+    "Duration (s)": 49,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "90b79361-434d-4d37-a0b0-4341e93fe97d",
+    "WA Error": "",
+    "UUID": "c17d7a04-e309-4689-a2e4-cbd9eb68c76c",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-24 08:54",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-24 15:36:16+05:30",
+    "Caller Number": 917972651754,
+    "Agent / IVR": "NA",
+    "Duration (s)": 1,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "23e2a172-477a-4759-be9a-d9fd753edacc",
+    "WA Error": "",
+    "UUID": "e81ac343-afe3-4284-a233-7c6e40e072e4",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Hello, thank you for reaching out to  Blissful Insights Holidays. ✈\\nWe will get back to you soon.\\nKindly call 9890946703 for urgent assistance.\",\"time\":\"2026-06-24 15:40\"}]",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-24 15:39",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-24 16:05:21",
+    "Caller Number": 919136715183,
+    "Agent / IVR": "TEST",
+    "Duration (s)": 0,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "test",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "5444de9e-ddb1-41a1-8114-03e8bf083066",
+    "WA Error": "",
+    "UUID": "67ca0c93-1378-4644-b362-cf86253668eb",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Other\",\"time\":\"2026-06-24 16:06\"},{\"from\":\"guest\",\"text\":\"Yes, I'd love to review!\",\"time\":\"2026-06-24 17:14\"},{\"from\":\"guest\",\"text\":\"Not right now\",\"time\":\"2026-06-24 17:17\"},{\"from\":\"guest\",\"text\":\"Not right now\",\"time\":\"2026-06-24 17:17\"},{\"from\":\"guest\",\"text\":\"Other\",\"time\":\"2026-06-25 13:28\"}]",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-24 16:30:53+05:30",
+    "Caller Number": 919225768620,
+    "Agent / IVR": "NA",
+    "Duration (s)": 77,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "b438b532-b873-43dc-9af7-ad61aa41a4fc",
+    "WA Error": "",
+    "UUID": "01d58f8f-9463-4bad-87cd-aad083df7480",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-24 16:47\"}]",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-24 16:35",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-24 18:50:48+05:30",
+    "Caller Number": 919309966911,
+    "Agent / IVR": "NA",
+    "Duration (s)": 94,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "2ae02107-493b-4c3e-8ce5-76421b5f25bb",
+    "WA Error": "",
+    "UUID": "26b1121d-daa6-4a68-b65b-32039abaa7cd",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-24 18:56",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-24 19:26:39+05:30",
+    "Caller Number": 919664108370,
+    "Agent / IVR": "NA",
+    "Duration (s)": 4,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "0cdc3620-0403-4193-b552-1b05b8c33e87",
+    "WA Error": "",
+    "UUID": "c9473f70-953a-423c-a07c-9204520f92c5",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-24 19:27",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-24 19:48:47+05:30",
+    "Caller Number": 919082550288,
+    "Agent / IVR": "NA",
+    "Duration (s)": 53,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "1d3e9f11-878e-47f1-9f1f-5b4f296616cc",
+    "WA Error": "",
+    "UUID": "bbdb31c7-5e3a-4946-b110-d48d7617b3f4",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Wedding Inquiry\",\"time\":\"2026-06-26 10:17\"}]",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-24 19:52",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-24 23:51:20+05:30",
+    "Caller Number": 917524853717,
+    "Agent / IVR": "NA",
+    "Duration (s)": 99,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "fed0b4e2-4fcd-4854-a00b-2b08ae56cb93",
+    "WA Error": "",
+    "UUID": "2e9d51e8-02e2-4f0a-a94c-a548c3787fd4",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Thank you for contacting RB Enterprises! Please let us know how we can help you\\nWe deal in all types of batteries solar batteries on grid and off grid solar plants net feeding , net metering do contact Authorized vendor of UPNED\",\"time\":\"2026-06-24 23:54\"},{\"from\":\"guest\",\"text\":\"Thank you for your message. We’re unavailable right now, but will respond as soon as possible.\",\"time\":\"2026-06-24 23:54\"},{\"from\":\"us\",\"text\":\"As discussed, we cannot match the budget of Rs. 5000 per dbl. room per night for 5th July 26\",\"time\":\"2026-06-25 18:01\"},{\"from\":\"guest\",\"text\":\"Other\",\"time\":\"2026-06-25 20:42\"}]",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-24 23:54",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-25 00:31:07+05:30",
+    "Caller Number": 917718905934,
+    "Agent / IVR": "NA",
+    "Duration (s)": 38,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "214d1715-e1f9-46b2-8f96-2514100bdea9",
+    "WA Error": "",
+    "UUID": "262c3e03-b2b2-401f-b685-86bcd0367027",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-25 00:34",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-25 00:39:57+05:30",
+    "Caller Number": 917718905934,
+    "Agent / IVR": "NA",
+    "Duration (s)": 39,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "29531845-1d05-4092-b1ba-4aff99a1f833",
+    "WA Error": "",
+    "UUID": "1e4bc9c1-f50b-43f2-ad88-355c9beac619",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-25 00:40",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-25 07:42:41+05:30",
+    "Caller Number": 919922443008,
+    "Agent / IVR": "NA",
+    "Duration (s)": 23,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "7cb5bb9a-1f6b-42e0-a63c-519d103b4307",
+    "WA Error": "",
+    "UUID": "46f70904-81c4-4dd3-8eba-f061ed92c4c9",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-25 07:53\"},{\"from\":\"guest\",\"text\":\"Wedding Inquiry\",\"time\":\"2026-06-25 07:53\"},{\"from\":\"guest\",\"text\":\"Rhythm Lonavala: An All-Suite Resort\\n4.4(5.9K)\\n5-star hotel\\nThumbnail image\\n8,225+\\nOverview\\nPrices\\nPhotos\\nAbout\\nReviews\\nLocation\\nAvailable for Sun, 28 Jun–Mon, 29 Jun for ₹6,525\\nCheck in\\nSat, 27 Jun \\nCheck out\\nSun, 28 Jun \\n2\",\"time\":\"2026-06-25 09:46\"},{\"from\":\"guest\",\"text\":\"👆on your website room rates show 6525 per night...\",\"time\":\"2026-06-25 09:47\"},{\"from\":\"guest\",\"text\":\"So in fact if one is booking so early...rates should be lower than 6525..right?\",\"time\":\"2026-06-25 10:15\"}]",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-25 07:46",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-25 10:03:21+05:30",
+    "Caller Number": 919767858292,
+    "Agent / IVR": "NA",
+    "Duration (s)": 2,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "bfb5b5ed-3870-43c1-a17b-6d40f887907c",
+    "WA Error": "",
+    "UUID": "009a5bbd-10d7-4059-9d2e-db28baee2c01",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-25 10:06",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-25 10:21:26+05:30",
+    "Caller Number": 918956006996,
+    "Agent / IVR": "NA",
+    "Duration (s)": 0,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "12c313e4-7202-4875-850a-4fc8ae48150b",
+    "WA Error": "",
+    "UUID": "e1751fbd-f23f-43c4-9066-fa6e991862fd",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-25 10:21",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-25 12:00:11+05:30",
+    "Caller Number": 917666719994,
+    "Agent / IVR": "NA",
+    "Duration (s)": 6,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "46a5e1c9-06fe-46fa-9927-c2902e361388",
+    "WA Error": "",
+    "UUID": "9a4fad2f-0ab0-4a18-82f8-0eebebfc0332",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Corporate Inquiry\",\"time\":\"2026-06-25 12:02\"}]",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-25 12:02",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-25 12:04:44+05:30",
+    "Caller Number": 919821052234,
+    "Agent / IVR": "NA",
+    "Duration (s)": 0,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "e8502b5d-73ad-4a15-98ea-9a90e410515e",
+    "WA Error": "",
+    "UUID": "e39fdd0f-142e-4a97-90ef-2af31f207726",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-25 12:05",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-25 12:44:34+05:30",
+    "Caller Number": 917208796069,
+    "Agent / IVR": "NA",
+    "Duration (s)": 5,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "27377666-bd08-41f9-983e-be127c995671",
+    "WA Error": "",
+    "UUID": "e1324708-6532-4d08-b428-7e24d627f976",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-25 12:58\"}]",
+    "Done": "Yes",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-25 18:18:27+05:30",
+    "Caller Number": 918080060103,
+    "Agent / IVR": "NA",
+    "Duration (s)": 0,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "47987e03-432a-4b2f-aaae-b2680904eaa2",
+    "WA Error": "",
+    "UUID": "a5c6bb65-e250-4647-81e7-0f419c975779",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-25 18:18",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-25 18:30:17+05:30",
+    "Caller Number": 919137962784,
+    "Agent / IVR": "NA",
+    "Duration (s)": 41,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "022a1920-f6d0-41da-8e1b-ceb31a214168",
+    "WA Error": "",
+    "UUID": "24618463-ed3e-47ec-b2e7-b132621c13bb",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-25 18:33",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-25 18:28:45+05:30",
+    "Caller Number": 919137962784,
+    "Agent / IVR": "NA",
+    "Duration (s)": 83,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "ea7f8e86-00d2-4f9b-aa6d-ec7443d517ee",
+    "WA Error": "",
+    "UUID": "29fc0474-902b-42fe-ae46-d975c8783d6c",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-25 18:39\"}]",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-25 18:33",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-25 19:46:12+05:30",
+    "Caller Number": 919819356307,
+    "Agent / IVR": "NA",
+    "Duration (s)": 20,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "61f2ae54-3577-4fd6-8a1c-ff8a2e4ba9b6",
+    "WA Error": "",
+    "UUID": "1f842b81-a073-41c8-b884-a751e4ee652c",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-25 19:49",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-25 19:45:59+05:30",
+    "Caller Number": 919819356307,
+    "Agent / IVR": "NA",
+    "Duration (s)": 0,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "4458331a-dd9e-4d2e-ab76-a9debe4279cf",
+    "WA Error": "",
+    "UUID": "1b2568ee-4ac1-43fb-a1e1-25ed5cc0900e",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-25 19:49",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-25 20:58:38+05:30",
+    "Caller Number": 919404131178,
+    "Agent / IVR": "NA",
+    "Duration (s)": 7,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "0c589822-1d91-4a44-afd0-7aaa31ff4245",
+    "WA Error": "",
+    "UUID": "296a2644-bc4b-4954-8081-5acbef7166cc",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-25 21:03",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-25 23:11:23+05:30",
+    "Caller Number": 918264626000,
+    "Agent / IVR": "NA",
+    "Duration (s)": 47,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "5491c909-c03b-4b1c-8d05-e76bb2132d54",
+    "WA Error": "",
+    "UUID": "5ab86250-d2b6-47d4-8d2a-83c82294fe55",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-26 07:50\"}]",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-25 23:14",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-25 23:52:24+05:30",
+    "Caller Number": 919819290412,
+    "Agent / IVR": "NA",
+    "Duration (s)": 70,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "6a65ccae-f97b-4117-bbed-54f05bc7c96d",
+    "WA Error": "",
+    "UUID": "f5dde877-f9c4-4559-99c7-48972e1b52e4",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-25 23:55",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 01:02:48+05:30",
+    "Caller Number": 919461243554,
+    "Agent / IVR": "NA",
+    "Duration (s)": 40,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "99a1348c-85b9-41af-ab06-d014be857f04",
+    "WA Error": "",
+    "UUID": "1165e8c7-da9d-4208-bc6d-f4314f4250dd",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-26 01:06\"}]",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 01:05",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 00:59:29+05:30",
+    "Caller Number": 918452869760,
+    "Agent / IVR": "NA",
+    "Duration (s)": 76,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "e2d33f96-bbdf-4212-af30-51e6018435e5",
+    "WA Error": "",
+    "UUID": "bd51024d-e9e6-4130-ad29-b682a808aaf5",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 01:05",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 02:24:10+05:30",
+    "Caller Number": 918888196419,
+    "Agent / IVR": "NA",
+    "Duration (s)": 66,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "d7e86bc6-add0-4967-9a7e-99e709319a15",
+    "WA Error": "",
+    "UUID": "91f3e512-6a37-4ad1-8090-d7d66259434e",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 02:25",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 07:47:16+05:30",
+    "Caller Number": 919927162155,
+    "Agent / IVR": "NA",
+    "Duration (s)": 0,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "2ae23461-cf54-456c-9dc9-5d971f9fb6df",
+    "WA Error": "",
+    "UUID": "f4a34217-8b7a-4696-945f-b7acb9465fa8",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-26 07:51\"},{\"from\":\"guest\",\"text\":\"Sir,\\nWe are 5,out of which 4 are of 75-80 years and 2 having mobility issues ,wish to enjoy your hospitality between 21-23/9/26 and stay in lake facing cottages ( 500 sq ft)We May remain confine to our cottages only and enjoy property.\\nWe Shall be needing 2 cottages with an extra bed in one.\\nPlease offer your best prices inclusive of taxes as also your cancellation policy since being old for us to book with you.\\nRegards \\nUmesh Sanghi\",\"time\":\"2026-06-26 07:52\"}]",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 07:51",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 08:08:40+05:30",
+    "Caller Number": 919145294917,
+    "Agent / IVR": "NA",
+    "Duration (s)": 99,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "8b6e8ab6-b416-4fdf-8806-cd4346fa6f2a",
+    "WA Error": "",
+    "UUID": "6e7f4537-66e7-46dc-a7f2-e39dbde571ee",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Other\",\"time\":\"2026-06-26 08:12\"}]",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 08:12",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 09:09:29+05:30",
+    "Caller Number": 919689943967,
+    "Agent / IVR": "NA",
+    "Duration (s)": 76,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "9cc992ef-509a-4e1d-b297-9542b2d751cd",
+    "WA Error": "",
+    "UUID": "688c44e0-7a4b-4b5d-926c-43fb82442e68",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-26 09:48\"}]",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 09:12",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 09:26:16+05:30",
+    "Caller Number": 919937282477,
+    "Agent / IVR": "NA",
+    "Duration (s)": 47,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "8bc4a1ac-1d8a-47e8-9009-139a1ca1084b",
+    "WA Error": "",
+    "UUID": "ddec8873-01b1-48e3-8e21-fa6a97f2dc02",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 09:27",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 09:34:34+05:30",
+    "Caller Number": 919004932428,
+    "Agent / IVR": "NA",
+    "Duration (s)": 75,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "2396705d-6636-42d6-9951-8cef500e0c75",
+    "WA Error": "",
+    "UUID": "34c39eac-8ebf-4e02-af6e-bd80a78b8b68",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-26 09:38\"}]",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 09:38",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 11:56:26+05:30",
+    "Caller Number": 918433640017,
+    "Agent / IVR": "NA",
+    "Duration (s)": 76,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "566844d8-59af-405d-8ea0-6aef5862b389",
+    "WA Error": "",
+    "UUID": "27506fba-3fb2-4b56-87ea-73f6f300896a",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 11:59",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 12:35:43+05:30",
+    "Caller Number": 12094362217,
+    "Agent / IVR": "NA",
+    "Duration (s)": 4,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "a2e3cdfd-d1f2-43e6-b84a-376f051d070d",
+    "WA Error": "",
+    "UUID": "2cda8678-62c6-4f05-99e7-32a60c1fd2b7",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 12:39",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 17:20:57+05:30",
+    "Caller Number": 918169039292,
+    "Agent / IVR": "NA",
+    "Duration (s)": 0,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "eac0c57d-6559-4865-9514-fcfe1498b587",
+    "WA Error": "",
+    "UUID": "aeeccc9b-32cc-4261-8459-6f19632f0d3a",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 17:21",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 19:00:04+05:30",
+    "Caller Number": 917387222164,
+    "Agent / IVR": "NA",
+    "Duration (s)": 44,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "c46746c8-3776-4ec8-b7c9-9c2dd7ec9960",
+    "WA Error": "",
+    "UUID": "2c6fca9a-f484-42fd-a3e6-6a78e418d173",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-26 19:02\"}]",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 19:01",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 19:01:58+05:30",
+    "Caller Number": 917387222164,
+    "Agent / IVR": "NA",
+    "Duration (s)": 0,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "d9402090-da45-48af-b2c9-a9a722966113",
+    "WA Error": "",
+    "UUID": "e2eb2687-84b6-4fc6-aee5-f7d86f9d3699",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-26 19:03\"}]",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 19:02",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 20:39:14+05:30",
+    "Caller Number": 919923072440,
+    "Agent / IVR": "NA",
+    "Duration (s)": 8,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "00a95eca-f790-431b-9ec9-c8f6ce4eebd9",
+    "WA Error": "",
+    "UUID": "e403dec8-6edb-4020-b70f-c6def78a429c",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 20:47",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 21:43:44+05:30",
+    "Caller Number": 917021646023,
+    "Agent / IVR": "NA",
+    "Duration (s)": 25,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "228356ac-7d87-4029-8cb7-37f702d7468f",
+    "WA Error": "",
+    "UUID": "f224176a-4c62-46be-a9b7-3bcf9b29f2ca",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-26 21:48\"}]",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 21:48",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 22:23:01+05:30",
+    "Caller Number": 919320123045,
+    "Agent / IVR": "NA",
+    "Duration (s)": 42,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "0e1acc46-6540-4a36-9bc2-d5a5cac4b611",
+    "WA Error": "",
+    "UUID": "c1325269-f03b-4459-8d88-97c04dcfae52",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 22:24",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-26 22:28:15+05:30",
+    "Caller Number": 919769620201,
+    "Agent / IVR": "NA",
+    "Duration (s)": 0,
+    "Talk Time (s)": 0,
+    "Call Status": "Abandoned",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "6df38b92-6aac-4594-b6a2-51d80d46aa6a",
+    "WA Error": "",
+    "UUID": "28d332e8-9134-41e4-b208-a26bb5e828dc",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-26 22:30",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-27 01:35:17+05:30",
+    "Caller Number": 917507412228,
+    "Agent / IVR": "NA",
+    "Duration (s)": 55,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "4e12e566-7e4d-4096-97b0-b61fcb0e51d3",
+    "WA Error": "",
+    "UUID": "cef3b8f9-19b8-411d-9f1a-a5e2dd90ed3b",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-27 01:39",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-27 08:49:03+05:30",
+    "Caller Number": 918320143466,
+    "Agent / IVR": "NA",
+    "Duration (s)": 47,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "da8ab33a-b7bb-4945-a5d4-9c6903a14e9b",
+    "WA Error": "",
+    "UUID": "60f07db0-3120-4a3c-9490-e01c5a574b72",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-27 08:51",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-27 08:48:02+05:30",
+    "Caller Number": 919272038138,
+    "Agent / IVR": "NA",
+    "Duration (s)": 29,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "8431d862-90e4-41bc-a109-7c16837dbf8c",
+    "WA Error": "",
+    "UUID": "263bc002-1703-4844-a910-2925d778e436",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-27 08:57\"},{\"from\":\"guest\",\"text\":\"Wedding Inquiry\",\"time\":\"2026-06-27 08:58\"}]",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-27 08:51",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-28 07:46:53+05:30",
+    "Caller Number": 919765224444,
+    "Agent / IVR": "NA",
+    "Duration (s)": 100,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "d0fe8dc8-a20d-4ddc-90aa-d47fc56bd023",
+    "WA Error": "",
+    "UUID": "78bfc19d-c14c-4dfd-8f13-a74b07392bb6",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-29 14:07",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-28 09:48:37+05:30",
+    "Caller Number": 919741684371,
+    "Agent / IVR": "NA",
+    "Duration (s)": 94,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "bfd597a2-9e1a-45ab-acd2-32dbcedcab54",
+    "WA Error": "",
+    "UUID": "14932216-5b05-46aa-9065-3b4b4f706a50",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-29 14:07",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-28 10:08:56+05:30",
+    "Caller Number": 919987938569,
+    "Agent / IVR": "NA",
+    "Duration (s)": 99,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "9b0d057b-efed-4250-94ce-68c3cd6ab8f4",
+    "WA Error": "",
+    "UUID": "754db5dd-1cb0-416a-9140-98ccb439328f",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-29 14:07",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-28 13:07:20+05:30",
+    "Caller Number": 918369592601,
+    "Agent / IVR": "NA",
+    "Duration (s)": 76,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "ccda0187-a1c1-4cb5-9041-d367320fd479",
+    "WA Error": "",
+    "UUID": "5f5be68a-8236-4a6d-8243-f6fb6acd46e8",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-29 14:07",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-28 13:20:14+05:30",
+    "Caller Number": 919727207075,
+    "Agent / IVR": "NA",
+    "Duration (s)": 77,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "fadd1b4e-f55d-4cdb-9fe7-7bf2f8c28439",
+    "WA Error": "",
+    "UUID": "96e5e753-bbe0-48b9-a396-81d6a3656aaa",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-29 14:42\"}]",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-29 14:07",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-28 14:20:17+05:30",
+    "Caller Number": 911246018909,
+    "Agent / IVR": "NA",
+    "Duration (s)": 77,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "c2ace779-1fdd-4d22-bdc6-8ac9e7a9d343",
+    "WA Error": "",
+    "UUID": "5ee81041-7dfd-4e26-bb02-8d8fa5532e40",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-29 14:07",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-28 16:16:33+05:30",
+    "Caller Number": 917387733733,
+    "Agent / IVR": "NA",
+    "Duration (s)": 7,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "c0e6f38c-db35-451b-ad0d-aaae776e90cd",
+    "WA Error": "",
+    "UUID": "ba482eb6-f7df-499c-9a61-b6e7f4b1fd13",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-29 14:07",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-28 18:11:58+05:30",
+    "Caller Number": 919890108836,
+    "Agent / IVR": "NA",
+    "Duration (s)": 7,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "6a6b999e-6a4f-4c40-9c59-e4f4dc9638d1",
+    "WA Error": "",
+    "UUID": "00c61ec8-66b8-45ef-8c43-12b3142b5d48",
+    "Conversation Thread": "",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-29 14:07",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-28 18:14:57+05:30",
+    "Caller Number": 919604867101,
+    "Agent / IVR": "NA",
+    "Duration (s)": 99,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "bbbf2f4d-b1ce-425e-bc08-49d78f8bc4e5",
+    "WA Error": "",
+    "UUID": "b1f3e463-49cb-4b34-a9d7-8cba3676309c",
+    "Conversation Thread": "[{\"from\":\"guest\",\"text\":\"Room Booking\",\"time\":\"2026-06-29 14:26\"}]",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-29 14:07",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-28 20:51:27+05:30",
+    "Caller Number": 918887535256,
+    "Agent / IVR": "NA",
+    "Duration (s)": 99,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "4eb7c065-cced-41da-b59d-7a803ebbeef4",
+    "WA Error": "",
+    "UUID": "4e106c94-abdc-48a9-ab6e-31dfab8f35fd",
+    "Conversation Thread": "[{\"from\":\"us\",\"text\":\"As discussed, we cannot match the budget of Rs. 14000 for 2 nights for 3 adults from 2nd July 26 for 2 nights.  Or final no regret offer is Rs. 24500.\",\"time\":\"2026-06-29 14:51\"}]",
+    "Done": "Yes",
+    "Delivery Status": "Enqueued",
+    "Status Updated At": "2026-06-29 14:07",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "2026-06-29 16:10:58+05:30",
+    "Caller Number": 919867411063,
+    "Agent / IVR": "NA",
+    "Duration (s)": 13,
+    "Talk Time (s)": 0,
+    "Call Status": "Missed",
+    "Direction": "incoming",
+    "Disposition": "",
+    "WhatsApp Sent?": "Yes",
+    "WA Message ID": "10def96f-a790-4d7d-afe9-8056cce1aa76",
+    "WA Error": "",
+    "UUID": "8fab8fbd-7898-467e-9ade-15dd5d241e6e",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1782724869991,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033GI3GYA7YrdItnNwgvKn\",\"gsId\":\"3acb1ebf-6f4e-47f5-a8be-76a0abad4cb9\",\"type\":\"failed\",\"destination\":\"918887535256\",\"payload\":{\"code\":470,\"reason\":\"Re-engagement message, (#470) Message failed to send because more than 24 hours have passed since the customer last replied to this number.\"}}}": "",
+    "Mon Jun 29 2026 14:51:11 GMT+0530 (India Standard Time)": ""
   }
 ]
