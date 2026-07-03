@@ -6298,5 +6298,26 @@
     "": "",
     "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1783061775601,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033IVR72W5iDYC4PjbYl8D\",\"gsId\":\"b5ef6ffc-c615-4b20-a4a1-bf59a0103ba4\",\"type\":\"delivered\",\"destination\":\"917708113803\",\"payload\":{\"ts\":1783061773},\"userId\":\"IN.2269976280203865\"}}": "2026-07-03 12:21:32+05:30",
     "Fri Jul 03 2026 12:26:17 GMT+0530 (India Standard Time)": "917708113803"
+  },
+  {
+    "Date & Time": "",
+    "Caller Number": "",
+    "Agent / IVR": "",
+    "Duration (s)": "",
+    "Talk Time (s)": "",
+    "Call Status": "",
+    "Direction": "",
+    "Disposition": "",
+    "WhatsApp Sent?": "",
+    "WA Message ID": "",
+    "WA Error": "",
+    "UUID": "",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1783061775601,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033IVR72W5iDYC4PjbYl8D\",\"gsId\":\"b5ef6ffc-c615-4b20-a4a1-bf59a0103ba4\",\"type\":\"delivered\",\"destination\":\"917708113803\",\"payload\":{\"ts\":1783061773},\"userId\":\"IN.2269976280203865\"}}": "",
+    "Fri Jul 03 2026 12:26:17 GMT+0530 (India Standard Time)": ""
   }
 ]
