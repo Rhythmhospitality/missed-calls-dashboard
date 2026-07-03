@@ -6319,5 +6319,26 @@
     "": "",
     "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1783067196701,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE3MzQwOTU2NDI3FQIAEhggQTVDNjYzMTY4RkExMDlGNDBCOTgzQkFCOTQxQkU0QjkA\",\"source\":\"917340956427\",\"type\":\"quick_reply\",\"payload\":{\"text\":\"Other\",\"type\":\"button\",\"postbackText\":\"Other\"},\"sender\":{\"phone\":\"917340956427\",\"name\":\"Occaza\",\"country_code\":\"91\",\"dial_code\":\"7340956427\",\"userId\":\"IN.2552230471902590\"},\"context\":{\"id\":\"033IY41JBYxf0OBtYlc4Db\",\"gsId\":\"7bfd0af9-a66b-46d4-b8f2-ea9d8d329b17\",\"forwarded\":false,\"frequently_forwarded\":false}}}": "",
     "Fri Jul 03 2026 13:56:38 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "",
+    "Caller Number": "",
+    "Agent / IVR": "",
+    "Duration (s)": "",
+    "Talk Time (s)": "",
+    "Call Status": "",
+    "Direction": "",
+    "Disposition": "",
+    "WhatsApp Sent?": "",
+    "WA Message ID": "",
+    "WA Error": "",
+    "UUID": "",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1783067196701,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE3MzQwOTU2NDI3FQIAEhggQTVDNjYzMTY4RkExMDlGNDBCOTgzQkFCOTQxQkU0QjkA\",\"source\":\"917340956427\",\"type\":\"quick_reply\",\"payload\":{\"text\":\"Other\",\"type\":\"button\",\"postbackText\":\"Other\"},\"sender\":{\"phone\":\"917340956427\",\"name\":\"Occaza\",\"country_code\":\"91\",\"dial_code\":\"7340956427\",\"userId\":\"IN.2552230471902590\"},\"context\":{\"id\":\"033IY41JBYxf0OBtYlc4Db\",\"gsId\":\"7bfd0af9-a66b-46d4-b8f2-ea9d8d329b17\",\"forwarded\":false,\"frequently_forwarded\":false}}}": "",
+    "Fri Jul 03 2026 13:56:38 GMT+0530 (India Standard Time)": ""
   }
 ]
