@@ -6424,5 +6424,26 @@
     "": "",
     "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1783089723785,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE3MDIxMzgxNjU0FQIAEhgUMkE4NTdFQkY2OUU2RUZDRDBFRDQA\",\"source\":\"917021381654\",\"type\":\"quick_reply\",\"payload\":{\"text\":\"Room Booking\",\"type\":\"button\",\"postbackText\":\"Room Booking\"},\"sender\":{\"phone\":\"917021381654\",\"name\":\"Sachin Deorukhkar\",\"country_code\":\"91\",\"dial_code\":\"7021381654\",\"userId\":\"IN.1045324894710448\"},\"context\":{\"id\":\"033J7gCuKsQ5BaCqZ8WLHx\",\"gsId\":\"4a03567a-b791-4e8f-b339-0eb247acec62\",\"forwarded\":false,\"frequently_forwarded\":false}}}": "",
     "Fri Jul 03 2026 20:12:04 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "",
+    "Caller Number": "",
+    "Agent / IVR": "",
+    "Duration (s)": "",
+    "Talk Time (s)": "",
+    "Call Status": "",
+    "Direction": "",
+    "Disposition": "",
+    "WhatsApp Sent?": "",
+    "WA Message ID": "",
+    "WA Error": "",
+    "UUID": "",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1783089723785,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE3MDIxMzgxNjU0FQIAEhgUMkE4NTdFQkY2OUU2RUZDRDBFRDQA\",\"source\":\"917021381654\",\"type\":\"quick_reply\",\"payload\":{\"text\":\"Room Booking\",\"type\":\"button\",\"postbackText\":\"Room Booking\"},\"sender\":{\"phone\":\"917021381654\",\"name\":\"Sachin Deorukhkar\",\"country_code\":\"91\",\"dial_code\":\"7021381654\",\"userId\":\"IN.1045324894710448\"},\"context\":{\"id\":\"033J7gCuKsQ5BaCqZ8WLHx\",\"gsId\":\"4a03567a-b791-4e8f-b339-0eb247acec62\",\"forwarded\":false,\"frequently_forwarded\":false}}}": "",
+    "Fri Jul 03 2026 20:12:04 GMT+0530 (India Standard Time)": ""
   }
 ]
