@@ -6844,5 +6844,26 @@
     "": "",
     "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1783170075113,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033JE9v9qZn9X2vrIeEKtG\",\"gsId\":\"08000efe-3c56-4ecc-a067-e086144ca923\",\"destination\":\"919824454145\"}}}": "",
     "Sat Jul 04 2026 18:34:37 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "",
+    "Caller Number": "",
+    "Agent / IVR": "",
+    "Duration (s)": "",
+    "Talk Time (s)": "",
+    "Call Status": "",
+    "Direction": "",
+    "Disposition": "",
+    "WhatsApp Sent?": "",
+    "WA Message ID": "",
+    "WA Error": "",
+    "UUID": "",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1783170075113,\"version\":2,\"type\":\"billing-event\",\"payload\":{\"deductions\":{\"type\":\"regular\",\"model\":\"PMP\",\"source\":\"whatsapp\",\"billable\":true,\"category\":\"marketing_lite\"},\"references\":{\"id\":\"033JE9v9qZn9X2vrIeEKtG\",\"gsId\":\"08000efe-3c56-4ecc-a067-e086144ca923\",\"destination\":\"919824454145\"}}}": "",
+    "Sat Jul 04 2026 18:34:37 GMT+0530 (India Standard Time)": ""
   }
 ]
