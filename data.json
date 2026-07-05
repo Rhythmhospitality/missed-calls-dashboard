@@ -7201,5 +7201,26 @@
     "": "",
     "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1783239970580,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033K6K5LpiPth6iENfCsdq\",\"gsId\":\"5a71b0d7-19af-4514-a2d4-dfe7d2dd23ed\",\"type\":\"failed\",\"destination\":\"917506610007\",\"payload\":{\"code\":131026,\"reason\":\"Message undeliverable, (#131026) Message Undeliverable.\"}}}": "",
     "Sun Jul 05 2026 13:56:11 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "",
+    "Caller Number": "",
+    "Agent / IVR": "",
+    "Duration (s)": "",
+    "Talk Time (s)": "",
+    "Call Status": "",
+    "Direction": "",
+    "Disposition": "",
+    "WhatsApp Sent?": "",
+    "WA Message ID": "",
+    "WA Error": "",
+    "UUID": "",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "Caller called back successfully",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1783239970580,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033K6K5LpiPth6iENfCsdq\",\"gsId\":\"5a71b0d7-19af-4514-a2d4-dfe7d2dd23ed\",\"type\":\"failed\",\"destination\":\"917506610007\",\"payload\":{\"code\":131026,\"reason\":\"Message undeliverable, (#131026) Message Undeliverable.\"}}}": "",
+    "Sun Jul 05 2026 13:56:11 GMT+0530 (India Standard Time)": ""
   }
 ]
