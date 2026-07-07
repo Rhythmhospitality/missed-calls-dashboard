@@ -9238,5 +9238,26 @@
     "": "",
     "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1783430778431,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033LmMF1cXpfxLrxm71HgH\",\"gsId\":\"7dfe2612-4700-46db-aab1-5211120b286b\",\"type\":\"failed\",\"destination\":\"918850419752\",\"payload\":{\"code\":131026,\"reason\":\"Message undeliverable, (#131026) Message Undeliverable.\"}}}": "",
     "Tue Jul 07 2026 18:56:19 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "",
+    "Caller Number": "",
+    "Agent / IVR": "",
+    "Duration (s)": "",
+    "Talk Time (s)": "",
+    "Call Status": "",
+    "Direction": "",
+    "Disposition": "",
+    "WhatsApp Sent?": "",
+    "WA Message ID": "",
+    "WA Error": "",
+    "UUID": "",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1783430778431,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033LmMF1cXpfxLrxm71HgH\",\"gsId\":\"7dfe2612-4700-46db-aab1-5211120b286b\",\"type\":\"failed\",\"destination\":\"918850419752\",\"payload\":{\"code\":131026,\"reason\":\"Message undeliverable, (#131026) Message Undeliverable.\"}}}": "",
+    "Tue Jul 07 2026 18:56:19 GMT+0530 (India Standard Time)": ""
   }
 ]
