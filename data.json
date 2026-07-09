@@ -10624,5 +10624,26 @@
     "": "",
     "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1783615575446,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033MAmVB0NyIOjCmp5trD0\",\"gsId\":\"9ffbbe00-d402-4b4c-bfdc-26401560e719\",\"type\":\"delivered\",\"destination\":\"917988913690\",\"payload\":{\"ts\":1783615573},\"userId\":\"IN.2584637161933142\"}}": "",
     "Thu Jul 09 2026 22:16:17 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "",
+    "Caller Number": "",
+    "Agent / IVR": "",
+    "Duration (s)": "",
+    "Talk Time (s)": "",
+    "Call Status": "",
+    "Direction": "",
+    "Disposition": "",
+    "WhatsApp Sent?": "",
+    "WA Message ID": "",
+    "WA Error": "",
+    "UUID": "",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1783615575446,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033MAmVB0NyIOjCmp5trD0\",\"gsId\":\"9ffbbe00-d402-4b4c-bfdc-26401560e719\",\"type\":\"delivered\",\"destination\":\"917988913690\",\"payload\":{\"ts\":1783615573},\"userId\":\"IN.2584637161933142\"}}": "",
+    "Thu Jul 09 2026 22:16:17 GMT+0530 (India Standard Time)": ""
   }
 ]
