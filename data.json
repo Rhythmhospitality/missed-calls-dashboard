@@ -15706,5 +15706,26 @@
     "": "",
     "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1784256958004,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE5NTk1MDEyOTQ5FQIAEhgUM0E3QUNDN0NEMDUxRDVFREFBRTcA\",\"source\":\"919595012949\",\"type\":\"quick_reply\",\"payload\":{\"text\":\"Other\",\"type\":\"button\",\"postbackText\":\"Other\"},\"sender\":{\"phone\":\"919595012949\",\"name\":\"🥳\",\"country_code\":\"91\",\"dial_code\":\"9595012949\",\"userId\":\"IN.1550183233269319\"},\"context\":{\"id\":\"033QOGGjf3os6mm62d4dDv\",\"gsId\":\"2476d3ae-7bcc-4f54-86ec-f92166f4a7e7\",\"forwarded\":false,\"frequently_forwarded\":false}}}": "",
     "Fri Jul 17 2026 08:25:59 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "",
+    "Caller Number": "",
+    "Agent / IVR": "",
+    "Duration (s)": "",
+    "Talk Time (s)": "",
+    "Call Status": "",
+    "Direction": "",
+    "Disposition": "",
+    "WhatsApp Sent?": "",
+    "WA Message ID": "",
+    "WA Error": "",
+    "UUID": "",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1784256958004,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE5NTk1MDEyOTQ5FQIAEhgUM0E3QUNDN0NEMDUxRDVFREFBRTcA\",\"source\":\"919595012949\",\"type\":\"quick_reply\",\"payload\":{\"text\":\"Other\",\"type\":\"button\",\"postbackText\":\"Other\"},\"sender\":{\"phone\":\"919595012949\",\"name\":\"🥳\",\"country_code\":\"91\",\"dial_code\":\"9595012949\",\"userId\":\"IN.1550183233269319\"},\"context\":{\"id\":\"033QOGGjf3os6mm62d4dDv\",\"gsId\":\"2476d3ae-7bcc-4f54-86ec-f92166f4a7e7\",\"forwarded\":false,\"frequently_forwarded\":false}}}": "",
+    "Fri Jul 17 2026 08:25:59 GMT+0530 (India Standard Time)": ""
   }
 ]
