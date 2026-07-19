@@ -16966,5 +16966,26 @@
     "": "",
     "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1784452027160,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033S6uKVRiFMUAx10PpxYi\",\"gsId\":\"33f5db61-77fc-4092-8d88-0ecbe16182f8\",\"type\":\"failed\",\"destination\":\"919923643158\",\"payload\":{\"code\":1005}}}": "",
     "Sun Jul 19 2026 14:37:08 GMT+0530 (India Standard Time)": ""
+  },
+  {
+    "Date & Time": "",
+    "Caller Number": "",
+    "Agent / IVR": "",
+    "Duration (s)": "",
+    "Talk Time (s)": "",
+    "Call Status": "",
+    "Direction": "",
+    "Disposition": "",
+    "WhatsApp Sent?": "",
+    "WA Message ID": "",
+    "WA Error": "",
+    "UUID": "",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1784452027160,\"version\":2,\"type\":\"message-event\",\"payload\":{\"id\":\"033S6uKVRiFMUAx10PpxYi\",\"gsId\":\"33f5db61-77fc-4092-8d88-0ecbe16182f8\",\"type\":\"failed\",\"destination\":\"919923643158\",\"payload\":{\"code\":1005}}}": "",
+    "Sun Jul 19 2026 14:37:08 GMT+0530 (India Standard Time)": ""
   }
 ]
