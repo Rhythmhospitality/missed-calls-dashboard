@@ -18919,5 +18919,26 @@
     "": "",
     "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1784794886563,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE5NDI1OTY5MTIwFQIAEhgUM0FFQzkzQUFDODc3Njk0OTUwRjcA\",\"source\":\"919425969120\",\"type\":\"text\",\"payload\":{\"text\":\"Your Name: nishi\\n📅 Check-in date: 1st aug\\n📅 Check-out date: 2nd aug\\n👨‍👩‍👧 Number of adults: 20-25\\n🧒 Number of kids (with ages):\\n📍 Preferred location: lonavala /karjat / igatpuri\\n💰 Approximate budget per night:\\n\\nIs you villa avl for ?\\n📅 Check-in date: 1st aug\\n📅 Check-out date: 2nd aug\\n👨‍👩‍👧 Number of adults: 20-25\"},\"sender\":{\"phone\":\"919425969120\",\"name\":\"Nishi Patodi\",\"country_code\":\"91\",\"dial_code\":\"9425969120\",\"userId\":\"IN.1777846116718123\"}}}": "2026-07-23 14:58:21+05:30",
     "Thu Jul 23 2026 13:51:28 GMT+0530 (India Standard Time)": "919699135072"
+  },
+  {
+    "Date & Time": "",
+    "Caller Number": "",
+    "Agent / IVR": "",
+    "Duration (s)": "",
+    "Talk Time (s)": "",
+    "Call Status": "",
+    "Direction": "",
+    "Disposition": "",
+    "WhatsApp Sent?": "",
+    "WA Message ID": "",
+    "WA Error": "",
+    "UUID": "",
+    "Conversation Thread": "",
+    "Done": "",
+    "Delivery Status": "",
+    "Status Updated At": "",
+    "": "",
+    "{\"app\":\"WaPT5Otz5w7XwF7NbWwatSCr\",\"timestamp\":1784794886563,\"version\":2,\"type\":\"message\",\"payload\":{\"id\":\"wamid.HBgMOTE5NDI1OTY5MTIwFQIAEhgUM0FFQzkzQUFDODc3Njk0OTUwRjcA\",\"source\":\"919425969120\",\"type\":\"text\",\"payload\":{\"text\":\"Your Name: nishi\\n📅 Check-in date: 1st aug\\n📅 Check-out date: 2nd aug\\n👨‍👩‍👧 Number of adults: 20-25\\n🧒 Number of kids (with ages):\\n📍 Preferred location: lonavala /karjat / igatpuri\\n💰 Approximate budget per night:\\n\\nIs you villa avl for ?\\n📅 Check-in date: 1st aug\\n📅 Check-out date: 2nd aug\\n👨‍👩‍👧 Number of adults: 20-25\"},\"sender\":{\"phone\":\"919425969120\",\"name\":\"Nishi Patodi\",\"country_code\":\"91\",\"dial_code\":\"9425969120\",\"userId\":\"IN.1777846116718123\"}}}": "",
+    "Thu Jul 23 2026 13:51:28 GMT+0530 (India Standard Time)": ""
   }
 ]
